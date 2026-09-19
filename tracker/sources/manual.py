@@ -32,5 +32,6 @@ def load(path: str) -> list[Drop]:
             price=r.get("price"),
             note=r.get("note", ""),
             premium=bool(r.get("premium", False)),
+            buy_url=r.get("buy_url"),
         ))
     return drops

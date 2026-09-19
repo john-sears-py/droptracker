@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Card Drops Calendar</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --surface: #ffffff; --text: #1d1c1a; --muted: #6b6862; --line: #e4e1db;
+    --accent: #c2410c; --today: #1d1c1a; --sel: #efece6;
+    /* one color per brand */
+    --c-pokemon: #ca8a04; --c-onepiece: #dc2626; --c-riftbound: #7c3aed; --c-topps: #2563eb;
+    --c-magic: #0f766e; --c-lorcana: #db2777; --c-gundam: #475569; --c-other: #78716c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151413; --surface: #1e1d1b; --text: #eeebe5; --muted: #a29e96; --line: #33312d;
+            --accent: #fb923c; --today: #eeebe5; --sel: #2a2825;
+            --c-pokemon: #facc15; --c-onepiece: #f87171; --c-riftbound: #a78bfa; --c-topps: #60a5fa;
+            --c-magic: #2dd4bf; --c-lorcana: #f472b6; --c-gundam: #94a3b8; --c-other: #a8a29e; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 64px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 4px; }
+  h1 { font-size: 22px; margin: 0; }
+  nav a { color: var(--muted); text-decoration: none; font-size: 14px; margin-right: 12px; }
+  nav a[aria-current="page"] { color: var(--text); font-weight: 600; border-bottom: 2px solid var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; margin: 6px 0 14px; }
+  .meta a { color: var(--accent); }
+  .err { color: var(--accent); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+  .legend button { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--text); padding: 4px 10px 4px 8px; border-radius: 999px;
+    font-size: 13px; cursor: pointer; }
+  .legend button[aria-pressed="false"] { opacity: .4; }
+  .sw { width: 10px; height: 10px; border-radius: 50%; background: var(--c); flex: none; }
+
+  .bar { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .bar h2 { font-size: 18px; margin: 0 8px 0 0; min-width: 150px; }
+  .bar button { border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 8px; padding: 4px 10px; font-size: 14px; cursor: pointer; }
+
+  .grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border: 1px solid var(--line);
+    border-radius: 10px; overflow: hidden; background: var(--line); gap: 1px; }
+  .dow { background: var(--surface); color: var(--muted); font-size: 12px; text-transform: uppercase;
+    letter-spacing: .05em; padding: 6px 8px; }
+  .cell { background: var(--surface); min-height: 112px; padding: 6px; cursor: pointer; display: flex;
+    flex-direction: column; gap: 3px; min-width: 0; }
+  .cell.out { background: var(--bg); }
+  .cell.out .num { opacity: .45; }
+  .cell.sel { background: var(--sel); }
+  .num { font-size: 13px; font-variant-numeric: tabular-nums; width: 24px; height: 24px; display: grid;
+    place-items: center; border-radius: 50%; }
+  .today .num { background: var(--today); color: var(--bg); font-weight: 700; }
+  .chip { --c: var(--c-other); display: block; font-size: 12px; line-height: 1.3; padding: 2px 6px;
+    border-left: 3px solid var(--c); border-radius: 4px; white-space: nowrap; overflow: hidden;
+    text-overflow: ellipsis; background: color-mix(in srgb, var(--c) 16%, var(--surface)); }
+  .chip b { font-weight: 600; margin-right: 3px; font-variant-numeric: tabular-nums; }
+  .chip.hot { font-weight: 600; }
+  .more { font-size: 11px; color: var(--muted); padding-left: 4px; }
+  .dots { display: none; gap: 3px; flex-wrap: wrap; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+
+  .panel { margin-top: 18px; }
+  .panel h3 { font-size: 15px; margin: 0 0 8px; }
+  .ev { --c: var(--c-other); display: grid; grid-template-columns: 4px 1fr; gap: 12px; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px 12px 0; margin-bottom: 8px; overflow: hidden; }
+  .ev .stripe { background: var(--c); margin: -12px 0; }
+  .ev .t { font-weight: 600; overflow-wrap: anywhere; }
+  .ev .s { color: var(--muted); font-size: 13px; margin-top: 2px; overflow-wrap: anywhere; }
+  .tag { display: inline-block; font-size: 11px; padding: 1px 7px; border-radius: 4px; margin-right: 6px;
+    background: color-mix(in srgb, var(--c) 18%, var(--surface)); color: var(--text); vertical-align: 1px; }
+  .tag.kind { background: var(--sel); color: var(--muted); }
+  .tag.hot { background: color-mix(in srgb, var(--accent) 18%, var(--surface)); color: var(--accent); font-weight: 600; }
+  .btns { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .btns a { font-size: 13px; text-decoration: none; padding: 5px 12px; border-radius: 8px; border: 1px solid var(--line);
+    color: var(--text); background: var(--surface); }
+  .btns a.buy { background: var(--text); color: var(--bg); border-color: var(--text); font-weight: 600; }
+  .empty { color: var(--muted); font-size: 14px; padding: 4px 2px; }
+
+  @media (max-width: 640px) {
+    .cell { min-height: 58px; padding: 4px; align-items: center; }
+    .chip, .more { display: none; }
+    .dots { display: flex; justify-content: center; }
+    .dow { padding: 6px 2px; text-align: center; font-size: 11px; }
+    .bar h2 { min-width: 0; font-size: 16px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Card Drops</h1>
+    <nav><a href="./">List</a><a href="calendar.html" aria-current="page">Calendar</a></nav>
+  </header>
+  <div class="meta" id="meta">Loading…</div>
+  <div class="legend" id="legend"></div>
+  <div class="bar">
+    <h2 id="month"></h2>
+    <button id="prev" aria-label="Previous month">‹</button>
+    <button id="next" aria-label="Next month">›</button>
+    <button id="today">Today</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  <section class="panel" id="panel"></section>
+  <section class="panel" id="tbd"></section>
+</main>
+<script>
+const TZ = "America/Chicago";
+const COLORS = { "Pokemon": "pokemon", "One Piece": "onepiece", "Riftbound": "riftbound", "Topps": "topps",
+                 "Magic": "magic", "Lorcana": "lorcana", "Gundam": "gundam" };
+const KIND = { lottery: "lottery", preorder: "pre-order", drop: "drop", release: "release", news: "news" };
+const BUY = { lottery: "Enter lottery", preorder: "Pre-order", drop: "Open drop", release: "View", news: "Read" };
+const cvar = g => `var(--c-${COLORS[g] || "other"})`;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const hot = d => d.premium || ["lottery", "preorder", "drop"].includes(d.kind);
+
+// "YYYY-MM-DD" for an instant, as seen in Chicago
+const ymd = dt => { const p = Object.fromEntries(new Intl.DateTimeFormat("en-CA", { timeZone: TZ,
+  year: "numeric", month: "2-digit", day: "2-digit" }).formatToParts(dt).map(x => [x.type, x.value]));
+  return `${p.year}-${p.month}-${p.day}`; };
+const keyOf = d => d.start ? ymd(new Date(d.start)) : (d.day || null);
+const timeOf = d => d.start ? new Date(d.start).toLocaleTimeString("en-US", { timeZone: TZ, hour: "numeric", minute: "2-digit" }) : "";
+const shortTime = d => timeOf(d).replace(":00", "").replace(" AM", "a").replace(" PM", "p");
+
+let data, byDay = {}, hidden = new Set(), view, selected;
+const todayKey = ymd(new Date());
+
+function visible(d) { return !hidden.has(d.game); }
+
+function render() {
+  const [y, m] = view;
+  const first = new Date(Date.UTC(y, m, 1));
+  document.getElementById("month").textContent =
+    first.toLocaleDateString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
+  const start = new Date(Date.UTC(y, m, 1 - first.getUTCDay()));
+  let html = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map(d => `<div class="dow">${d}</div>`).join("");
+  const weeks = Math.ceil((first.getUTCDay() + new Date(Date.UTC(y, m + 1, 0)).getUTCDate()) / 7);
+  for (let i = 0; i < weeks * 7; i++) {
+    const dt = new Date(start.getTime() + i * 864e5);
+    const key = dt.toISOString().slice(0, 10);
+    const evs = (byDay[key] || []).filter(visible);
+    const cls = ["cell", dt.getUTCMonth() !== m && "out", key === todayKey && "today", key === selected && "sel"]
+      .filter(Boolean).join(" ");
+    const chips = evs.slice(0, 3).map(d => `<span class="chip${hot(d) ? " hot" : ""}" style="--c:${cvar(d.game)}"
+        title="${esc(d.title)}">${d.start ? `<b>${esc(shortTime(d))}</b>` : ""}${esc(d.title.replace(/^\[Premium Bandai\]\s*/, "PB: "))}</span>`).join("");
+    const more = evs.length > 3 ? `<span class="more">+${evs.length - 3} more</span>` : "";
+    const dots = `<span class="dots">${evs.slice(0, 6).map(d => `<span class="dot" style="--c:${cvar(d.game)}"></span>`).join("")}</span>`;
+    html += `<div class="${cls}" data-k="${key}" role="button" tabindex="0" aria-label="${key}, ${evs.length} drops">
+      <span class="num">${dt.getUTCDate()}</span>${chips}${more}${dots}</div>`;
+  }
+  const grid = document.getElementById("grid");
+  grid.innerHTML = html;
+  renderPanel();
+}
+
+function evCard(d) {
+  const buy = d.buy_url || d.url;
+  const when = d.start ? `${timeOf(d)} Chicago` : "all day";
+  const btns = [buy && `<a class="buy" href="${esc(buy)}" target="_blank" rel="noopener">${esc(BUY[d.kind] || "Open")}</a>`,
+                d.buy_url && d.url && d.buy_url !== d.url && `<a href="${esc(d.url)}" target="_blank" rel="noopener">Details</a>`]
+               .filter(Boolean).join("");
+  return `<div class="ev" style="--c:${cvar(d.game)}"><span class="stripe"></span><div>
+    <div class="t"><span class="tag kind${hot(d) ? " hot" : ""}">${esc(KIND[d.kind] || d.kind)}</span><span class="tag">${esc(d.game)}</span>${esc(d.title)}</div>
+    <div class="s">${[when, d.price, d.note, d.source].filter(Boolean).map(esc).join(" · ")}</div>
+    ${btns ? `<div class="btns">${btns}</div>` : ""}</div></div>`;
+}
+
+function renderPanel() {
+  const evs = (byDay[selected] || []).filter(visible);
+  const label = new Date(selected + "T12:00:00Z").toLocaleDateString("en-US",
+    { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
+  document.getElementById("panel").innerHTML = `<h3>${esc(label)}${selected === todayKey ? " · today" : ""}</h3>` +
+    (evs.length ? evs.map(evCard).join("") : `<div class="empty">Nothing on this day.</div>`);
+  const tbd = data.drops.filter(d => !keyOf(d) && visible(d));
+  document.getElementById("tbd").innerHTML = tbd.length
+    ? `<h3>Date not announced yet (${tbd.length})</h3>` + tbd.map(evCard).join("") : "";
+}
+
+function shift(n) { view = [view[0] + Math.floor((view[1] + n) / 12), ((view[1] + n) % 12 + 12) % 12]; render(); }
+
+fetch("drops.json", { cache: "no-store" }).then(r => r.json()).then(j => {
+  data = j;
+  for (const d of j.drops) {
+    const k = keyOf(d);
+    if (!k) continue;
+    (byDay[k] ||= []).push(d);
+  }
+  for (const k in byDay) byDay[k].sort((a, b) => (a.start || "~").localeCompare(b.start || "~") || a.game.localeCompare(b.game));
+
+  const games = [...new Set(j.drops.map(d => d.game))].sort();
+  const legend = document.getElementById("legend");
+  legend.innerHTML = games.map(g =>
+    `<button aria-pressed="true" data-g="${esc(g)}"><span class="sw" style="--c:${cvar(g)}"></span>${esc(g)}</button>`).join("");
+  legend.onclick = e => {
+    const b = e.target.closest("button"); if (!b) return;
+    const g = b.dataset.g;
+    hidden.has(g) ? hidden.delete(g) : hidden.add(g);
+    b.setAttribute("aria-pressed", !hidden.has(g));
+    render();
+  };
+
+  const upd = new Date(j.generated).toLocaleString("en-US", { timeZone: TZ, month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+  document.getElementById("meta").innerHTML = `Updated ${esc(upd)} Chicago · <a href="drops.ics">subscribe to calendar</a>` +
+    (j.errors?.length ? ` · <span class="err" title="${esc(j.errors.join("\n"))}">${j.errors.length} source(s) failed last run</span>` : "");
+
+  const [ty, tm] = todayKey.split("-").map(Number);
+  view = [ty, tm - 1];
+  selected = todayKey;
+  const grid = document.getElementById("grid");
+  const pick = e => { const c = e.target.closest(".cell"); if (!c) return; selected = c.dataset.k;
+    const [y, m] = selected.split("-").map(Number);
+    if (m - 1 !== view[1] || y !== view[0]) view = [y, m - 1];
+    render(); document.getElementById("panel").scrollIntoView({ behavior: "smooth", block: "nearest" }); };
+  grid.onclick = pick;
+  grid.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(e); } };
+  document.getElementById("prev").onclick = () => shift(-1);
+  document.getElementById("next").onclick = () => shift(1);
+  document.getElementById("today").onclick = () => { view = [ty, tm - 1]; selected = todayKey; render(); };
+  render();
+}).catch(() => { document.getElementById("meta").textContent = "Couldn't load drops.json yet. The first scheduled run creates it."; });
+</script>
+</body>
+</html>

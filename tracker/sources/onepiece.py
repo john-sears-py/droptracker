@@ -16,6 +16,7 @@ from ..model import Drop
 
 BASE = "https://en.onepiece-cardgame.com"
 INDEX = BASE + "/products/index.php"
+PB_ONE_PIECE = "https://p-bandai.com/us/brand/onepiececardgame"
 
 _PERIOD = re.compile(r"Pre-?order\s+Period\s*[:：]\s*(.+?)(?:-|–|$)", re.I)
 _PB_BUY = re.compile(r"Apply through the Premium Bandai page|Where to buy\s*:?\s*PREMIUM BANDAI", re.I)
@@ -114,4 +115,6 @@ def to_drop(item: dict, detail: dict) -> Drop:
         price=item.get("price"),
         note="; ".join(note_bits),
         premium=premium,
+        # The official page only describes the product; Premium Bandai is where you order it.
+        buy_url=PB_ONE_PIECE if premium else None,
     )

@@ -305,3 +305,43 @@ def test_new_pbandai_lottery_fires_one_urgent_alert(tmp_path, monkeypatch):
     _, headers, _ = FakeSession.posts[0]
     assert b"LOTTERY OPEN" in headers["Title"] and b"OP-18" in headers["Title"]
     assert headers["Priority"] == "urgent" and headers["Tags"] == "ticket"
+
+
+# ---------- buy links on alerts ----------
+class Capture:
+    def __init__(self):
+        self.posts = []
+
+    def post(self, url, data=None, headers=None, json=None, timeout=None):
+        self.posts.append((url, headers, data, json))
+
+
+def test_alert_has_buy_button_click_and_link(monkeypatch):
+    from zoneinfo import ZoneInfo
+    monkeypatch.setenv("NTFY_TOPIC", "t")
+    monkeypatch.delenv("DISCORD_WEBHOOK_URL", raising=False)
+    s = Capture()
+    d = Drop(id="x", game="One Piece", title="Premium Card Collection", source="onepiece-cardgame.com",
+             url="https://en.onepiece-cardgame.com/products/x.html", kind="preorder", day=date(2026, 10, 13),
+             premium=True, buy_url="https://p-bandai.com/us/brand/onepiececardgame")
+    notify.new_drop(s, d, ZoneInfo("America/Chicago"), "https://me.github.io/droptracker/")
+    _, h, body, _ = s.posts[0]
+    assert h["Click"] == "https://p-bandai.com/us/brand/onepiececardgame"          # tap = buy page
+    assert h["Actions"] == ("view, Pre-order now, https://p-bandai.com/us/brand/onepiececardgame, clear=true; "
+                            "view, Details, https://en.onepiece-cardgame.com/products/x.html, clear=true; "
+                            "view, Dashboard, https://me.github.io/droptracker/, clear=true")
+    assert body.decode().endswith("https://p-bandai.com/us/brand/onepiececardgame")  # link in text too
+
+
+def test_lottery_button_and_discord_link(monkeypatch):
+    from zoneinfo import ZoneInfo
+    monkeypatch.delenv("NTFY_TOPIC", raising=False)
+    monkeypatch.setenv("DISCORD_WEBHOOK_URL", "https://discord.test/hook")
+    s = Capture()
+    d = pbandai.to_drop("https://p-bandai.com/us/hotdeals/op18", date(2026, 9, 19),
+                        "Chance to Buy: ONE PIECE CARD GAME [OP-18] Booster Box", GAMES)
+    notify.new_drop(s, d, ZoneInfo("America/Chicago"))
+    assert pbandai.to_drop is not None and d.buy_url == d.url
+    assert "https://p-bandai.com/us/hotdeals/op18" in s.posts[0][3]["content"]
+    assert notify._actions([("Enter lottery", d.url), ("A, b; c", "https://z")]) == \
+        "view, Enter lottery, https://p-bandai.com/us/hotdeals/op18, clear=true; view, A  b  c, https://z, clear=true"

@@ -63,5 +63,6 @@ def parse(products: list, shop: dict, games: dict, watch: set,
             price=f"${min(prices):,.2f}" if prices else None,
             note="open" if in_stock else "listed, not purchasable yet (or sold out)",
             tags=tags[:8],
+            buy_url=f"https://{domain}/products/{p.get('handle')}",
         ))
     return drops

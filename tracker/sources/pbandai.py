@@ -63,6 +63,7 @@ def to_drop(url: str, lastmod: date, title: str, games: dict) -> Drop | None:
         day=lastmod,
         note=NOTE if lottery else "Premium Bandai hot deal / limited sale. Check the page for timing.",
         premium=True,
+        buy_url=url,                      # the hotdeals page is where you enter
     )
 
 

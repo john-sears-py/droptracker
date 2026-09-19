@@ -21,6 +21,10 @@ class Drop:
     note: str = ""
     premium: bool = False           # Premium Bandai, PC-exclusive, online-exclusive, etc.
     tags: list = field(default_factory=list)
+    buy_url: Optional[str] = None   # where you actually buy / enter, when it differs from `url`
+
+    def action_url(self) -> str:
+        return self.buy_url or self.url
 
     def when(self) -> Optional[date]:
         if self.start:
