@@ -1,0 +1,56 @@
+# ---------------------------------------------------------------------------
+# droptracker config. Edit freely; the next scheduled run picks it up.
+# ---------------------------------------------------------------------------
+timezone: America/Chicago
+
+# Only alert on these games (names must match `games` keys below).
+watch: [Riftbound, One Piece, Pokemon, Topps, Magic]
+
+# Regex per game. First match wins, top to bottom.
+games:
+  Pokemon:   'pok[eé]mon|\bptcg\b'
+  One Piece: 'one\s*piece|\b(OP|EB|PRB|ST)[\s\-]?\d{2}\b'
+  Riftbound: 'riftbound'
+  Topps:     '\btopps\b|\bbowman\b'
+  Lorcana:   'lorcana'
+  Magic:     'magic:?\s*the\s*gathering|\bmtg\b'
+  Gundam:    'gundam'
+
+# Shopify card shops. Each exposes /products.json; new "pre-order" listings
+# trigger an alert. Add the shops you actually buy from - test one first with:
+#     python check_shop.py someshop.com
+shopify:
+  - domain: tierzerogames.com          # verified Shopify; carries Riftbound
+    name: TierZero Games
+  - domain: godpackgames.ca            # verified Shopify; One Piece cases/boxes (Canada)
+    name: God Pack Games
+  - domain: www.universetcg.com        # likely Shopify; One Piece / Pokemon
+    name: Universe TCG
+shopify_pages: 2          # 250 products/page, newest first
+lookback_days: 45         # ignore pre-order listings older than this
+pause_seconds: 1.0        # be polite between shops
+
+# Official One Piece site: new products, Premium Bandai items, pre-order dates.
+onepiece_official: true
+
+# Premium Bandai USA "Chance to Buy" lotteries (read from its public sitemap).
+premium_bandai_us: true
+pbandai_lookback_days: 30
+
+# RSS/Atom feeds. `game` forces the game; `keywords` narrows which posts count.
+# Posts mentioning a lottery/raffle/Zaiko/release event are flagged as LOTTERY.
+rss:
+  - name: Bandai Namco US Shops        # ONE PIECE CARD GAME Official Shops - new-set lotteries (IL: Arlington Heights, Gurnee)
+    url: https://shop.bandainamco-am.com/feed/
+    keywords: 'one piece|\bOP-?\d{2}\b|\bEB-?\d{2}\b|lotter|zaiko|release event|pirates league'
+    note: 'Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).'
+  - name: PokeBeach
+    url: https://www.pokebeach.com/feed
+    game: Pokemon
+    keywords: 'pre-?order|release|pok[eé]mon center|costco|elite trainer|premium|exclusive|restock'
+
+manual_file: drops.yaml   # timed drops you type in (Topps, etc.)
+
+alarm_minutes: 15              # calendar alert before timed drops
+reminder_lead_minutes: 60      # push reminder window before timed drops
+user_agent: 'droptracker/1.0 (personal hobby release tracker)'
