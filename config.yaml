@@ -3,6 +3,8 @@
 # ---------------------------------------------------------------------------
 timezone: America/Chicago
 
+dashboard_url: https://john-sears-py.github.io/droptracker/
+
 # Only alert on these games (names must match `games` keys below).
 watch: [Riftbound, One Piece, Pokemon, Topps, Magic]
 
