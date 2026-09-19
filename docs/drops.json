@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-19T18:49:22.942653+00:00",
+ "generated": "2026-09-19T20:59:06.191885+00:00",
  "drops": [
+  {
+   "id": "pokeguardian:3359227",
+   "game": "Pokemon",
+   "title": "Pokemon Card Game September 2026 Merchandise Revealed",
+   "url": "https://www.pokeguardian.com/3359227_pokemon-card-game-september-2026-merchandise-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-09",
+   "price": null,
+   "note": "The Pokemon Card Game Merchandise line-up for September 2026 has been revealed.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
    "game": "One Piece",
@@ -13,7 +28,23 @@
    "price": null,
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3361286",
+   "game": "Pokemon",
+   "title": "Mewtwo 30th Celebration Store Promo Revealed",
+   "url": "https://www.pokeguardian.com/3361286_mewtwo-30th-celebration-store-promo-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-10",
+   "price": null,
+   "note": "Mewtwo from the upcoming 30th Celebration set, will be a store promo for\u00a0at least USA, Canada, and Australia / New Zealand.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "shopify:tierzerogames.com:8854998450199",
@@ -27,7 +58,38 @@
    "price": "$23.95",
    "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": "https://tierzerogames.com/products/mtg-foundations-commander-deck-wretched-ranks-pre-order"
+  },
+  {
+   "id": "riot:secret-garden-bundle-events",
+   "game": "Riftbound",
+   "title": "Secret Garden Bundle Events",
+   "url": "https://playriftbound.com/en-us/news/announcements/secret-garden-bundle-events",
+   "source": "playriftbound.com",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-11",
+   "price": null,
+   "note": "Here are the events that Secret Garden Bundle will be available at through the end of the year.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3368431",
+   "game": "Pokemon",
+   "title": "30th Celebration Full Digital Set List Revealed",
+   "url": "https://www.pokeguardian.com/3368431_30th-celebration-full-digital-set-list-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-15",
+   "price": null,
+   "note": "30th Celebration is scheduled to launch on September 16, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "pbandai:op16",
@@ -41,7 +103,8 @@
    "price": null,
    "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
    "premium": true,
-   "tags": []
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op16"
   },
   {
    "id": "pbandai:op17",
@@ -55,7 +118,8 @@
    "price": null,
    "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
    "premium": true,
-   "tags": []
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op17"
   },
   {
    "id": "onepiece:sd01.html",
@@ -69,7 +133,8 @@
    "price": "USD $24.99",
    "note": "delivers September 18, 2026",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -83,7 +148,8 @@
    "price": null,
    "note": "11:00 AM Chicago. Maybe - check whether the 2026 draft class is in it.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-bowman-chrome-baseball-hobby:2026-09-23t16-00-00-00-00",
@@ -97,7 +163,8 @@
    "price": null,
    "note": "11:00 AM Chicago. Last year's hobby box ~$512 a year later.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2025-26-topps-pristine-basketball:2026-09-24t16-00-00-00-00",
@@ -111,7 +178,38 @@
    "price": null,
    "note": "High-end; only if the price leaves room.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "riot:radiance-merch-store-update:opens",
+   "game": "Riftbound",
+   "title": "Riot drawing sign-up opens: Radiance Merch Store Update",
+   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
+   "source": "playriftbound.com",
+   "kind": "lottery",
+   "start": "2026-09-25T16:00:00+00:00",
+   "day": null,
+   "price": null,
+   "note": "Sign-up closes 2026-09-30; drawing starts 2026-10-05; winners get 24h to check out; needs a Riot account and riotgames.com email not in spam",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
+  },
+  {
+   "id": "riot:radiance-merch-store-update:closes",
+   "game": "Riftbound",
+   "title": "LAST DAY to sign up: Radiance Merch Store Update",
+   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
+   "source": "playriftbound.com",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-09-30",
+   "price": null,
+   "note": "",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
   },
   {
    "id": "manual:2026-topps-chrome-star-wars:2026-09-30",
@@ -125,7 +223,8 @@
    "price": null,
    "note": "Time not listed yet - check the Topps calendar and add a start time.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
@@ -139,7 +238,8 @@
    "price": null,
    "note": "Top pick. Last year's hobby box ~$932. Add the exact time when Topps posts it.",
    "premium": true,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-topps-chrome-samurai-japan-release:2026-10-16",
@@ -153,7 +253,8 @@
    "price": null,
    "note": "Sakura successor. Boxes were EQL raffle ($150).",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:riftbound-set-5-radiance-release:2026-10-23",
@@ -167,7 +268,8 @@
    "price": null,
    "note": "Shop pre-orders are already open at some stores - the Shopify watcher catches new ones.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:ts03.html",
@@ -181,7 +283,8 @@
    "price": "USD $11.99",
    "note": "delivers October 30, 2026",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
@@ -195,7 +298,8 @@
    "price": null,
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-release:2026-11-13",
@@ -209,7 +313,8 @@
    "price": null,
    "note": "Crossover - the outside-buyer pattern.",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:eb05.html",
@@ -223,7 +328,8 @@
    "price": "USD $4.99 per pack",
    "note": "delivers October 2026",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:sleeve045.html",
@@ -237,7 +343,8 @@
    "price": "USD $10.00",
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:sleeve046.html",
@@ -251,7 +358,8 @@
    "price": "USD $10.00",
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:playmat_liffy-bonney.html",
@@ -265,7 +373,8 @@
    "price": "USD $43.00",
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:collection-6assort-vol2.html",
@@ -279,7 +388,8 @@
    "price": "USD $15.00",
    "note": "",
    "premium": false,
-   "tags": []
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "onepiece:3rd_anniversary_set_cn.html",
@@ -293,7 +403,8 @@
    "price": "USD $100.00",
    "note": "order via Premium Bandai USA (p-bandai.com/us)",
    "premium": true,
-   "tags": []
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/brand/onepiececardgame"
   },
   {
    "id": "onepiece:card_collection_asl.html",
@@ -307,7 +418,188 @@
    "price": "USD $30.00",
    "note": "order via Premium Bandai USA (p-bandai.com/us)",
    "premium": true,
-   "tags": []
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/brand/onepiececardgame"
+  },
+  {
+   "id": "pokeguardian:2819645",
+   "game": "Pokemon",
+   "title": "M2a Mega Dream ex All AR/SR/MA/SAR/MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/2819645_m2a-mega-dream-ex-all-ar-sr-ma-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "MEGA High Class Pack Mega Dream ex\u00a0releases November 28, 2025.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:2819640",
+   "game": "Pokemon",
+   "title": "M2a Mega Dream ex Main Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/2819640_m2a-mega-dream-ex-main-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Card translations comes again from\u00a0ToineLay,\u00a0thank you!",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:2916284",
+   "game": "Pokemon",
+   "title": "M3 Nihil Zero All SR/AR/SAR/MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/2916284_m3-nihil-zero-all-sr-ar-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Nihil Zero is scheduled for release on January 23, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:2914213",
+   "game": "Pokemon",
+   "title": "M3 Nihil Zero Main Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/2914213_m3-nihil-zero-main-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Nihil Zero is scheduled for release on January 23, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3018155",
+   "game": "Pokemon",
+   "title": "M4 Ninja Spinner All SR/AR/SAR/MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3018155_m4-ninja-spinner-all-sr-ar-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Ninja Spinner is scheduled for release on March 13, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3012129",
+   "game": "Pokemon",
+   "title": "M4 Ninja Spinner Main Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3012129_m4-ninja-spinner-main-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Ninja Spinner is scheduled for release on March 13, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3160394",
+   "game": "Pokemon",
+   "title": "M5 Abyss Eye All SR/AR/SAR/MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3160394_m5-abyss-eye-all-sr-ar-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "M5 MEGA Expansion Pack Abyss Eye is scheduled for release on May 22, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3132093",
+   "game": "Pokemon",
+   "title": "M5 Abyss Eye Main Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3132093_m5-abyss-eye-main-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "M5 MEGA Expansion Pack Abyss Eye is scheduled for release on May 22, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3294881",
+   "game": "Pokemon",
+   "title": "M6 Storm Emeralda All SR/AR/SAR/MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3294881_m6-storm-emeralda-all-sr-ar-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "M6 MEGA Expansion Pack Storm Emeralda is scheduled for release on July 31, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3244371",
+   "game": "Pokemon",
+   "title": "M6 Storm Emeralda Main Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3244371_m6-storm-emeralda-main-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "M6 MEGA Expansion Pack Storm Emeralda is scheduled for release on July 31, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3335647",
+   "game": "Pokemon",
+   "title": "M6a 30th CELEBRATION Set List",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/3335647_m6a-30th-celebration-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "MEGA Expansion Pack 30th CELEBRATION releases September 16, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:2889900",
+   "game": "Pokemon",
+   "title": "Start Deck 100 Battle Collection All AR / SR / SAR / MUR Cards",
+   "url": "https://www.pokeguardian.com/sets/set-lists/japanese-sets/2889900_start-deck-100-battle-collection-all-ar-sr-sar-mur-cards",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": null,
+   "price": null,
+   "note": "Start Deck 100 Battle Collection releases December 19, 2025.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   }
  ],
  "errors": [
