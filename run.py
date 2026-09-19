@@ -20,7 +20,7 @@ import yaml
 
 from tracker import notify, output
 from tracker.classify import compile_games
-from tracker.sources import manual, onepiece, pbandai, riot, rss, shopify
+from tracker.sources import manual, onepiece, pbandai, pokeguardian, riot, rss, shopify
 
 
 def load_state(path):
@@ -70,6 +70,10 @@ def collect_all(cfg, session, state, now):
         attempt("riftbound news (Riot drawings)", lambda: riot.collect_news(
             session, state, now, cfg.get("riot_lookback_days", 10)))
         attempt("riot merch store", lambda: riot.collect_merch(session, state, now))
+
+    if cfg.get("pokeguardian", True) and (not watch or "Pokemon" in watch):
+        attempt("pokeguardian (Pokemon news)", lambda: pokeguardian.collect(
+            session, now, cfg.get("pokeguardian_lookback_days", 10)))
 
     for feed in cfg.get("rss", []):
         attempt(f"rss {feed['name']}", lambda feed=feed: rss.collect(session, feed, games, watch))
