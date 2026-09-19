@@ -20,7 +20,7 @@ import yaml
 
 from tracker import notify, output
 from tracker.classify import compile_games
-from tracker.sources import manual, onepiece, pbandai, rss, shopify
+from tracker.sources import manual, onepiece, pbandai, riot, rss, shopify
 
 
 def load_state(path):
@@ -65,6 +65,11 @@ def collect_all(cfg, session, state, now):
     if cfg.get("premium_bandai_us", True):
         attempt("premium bandai US", lambda: pbandai.collect(
             session, state, games, watch, now, cfg.get("pbandai_lookback_days", 30)))
+
+    if cfg.get("riot_riftbound", True) and (not watch or "Riftbound" in watch):
+        attempt("riftbound news (Riot drawings)", lambda: riot.collect_news(
+            session, state, now, cfg.get("riot_lookback_days", 10)))
+        attempt("riot merch store", lambda: riot.collect_merch(session, state, now))
 
     for feed in cfg.get("rss", []):
         attempt(f"rss {feed['name']}", lambda feed=feed: rss.collect(session, feed, games, watch))
@@ -112,7 +117,7 @@ def main(argv=None):
             if a.dry_run or alert_session is None:
                 print(f"  [would alert] {'UPDATED ' if is_update else ''}{d.game}: {d.title}")
             else:
-                notify.new_drop(alert_session, d, tz)
+                notify.new_drop(alert_session, d, tz, cfg.get("dashboard_url"))
             sent += 1
 
     for d in notify.due_reminders(drops, state["reminded"], now, cfg.get("reminder_lead_minutes", 60)):
@@ -120,7 +125,7 @@ def main(argv=None):
         if a.dry_run:
             print(f"  [would remind] {d.title} at {d.start.astimezone(tz)}")
         else:
-            notify.reminder(session, d, tz, now)
+            notify.reminder(session, d, tz, now, cfg.get("dashboard_url"))
 
     # keep state small
     cutoff = (now - timedelta(days=120)).isoformat()

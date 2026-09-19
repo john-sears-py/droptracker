@@ -2,7 +2,7 @@
 
 Every card drop and pre-order in one calendar on your phone, with push alerts.
 
-It checks six kinds of sources every 20 minutes:
+It checks seven kinds of sources every 20 minutes:
 
 | Source | What it catches |
 |---|---|
@@ -10,10 +10,11 @@ It checks six kinds of sources every 20 minutes:
 | **Official One Piece site** | New products, **Premium Bandai** items flagged, and the "Pre-order Period" start date from each product page |
 | **Premium Bandai USA sitemap** | New **"Chance to Buy" lotteries** (OP booster boxes, special sets) |
 | **Bandai Namco US shop news (RSS)** | ONE PIECE Official Shop **release lotteries** (Zaiko), incl. Arlington Heights + Gurnee IL |
+| **Riftbound / Riot Merch Store** | Riot's merch **drawings** (sign-up window parsed into an exact start time + reminder, alert button goes straight to registration), and new Riftbound product pages on merch.riotgames.com |
 | **RSS feeds** (PokeBeach by default) | Pokémon pre-order / Pokémon Center / Costco announcements |
 | **`drops.yaml`** (you edit) | Timed drops from sites that block scrapers — mainly Topps.com |
 
-Output: a subscribable calendar (`drops.ics`), a dashboard page, and phone push alerts for anything new.
+Output: a subscribable calendar (`drops.ics`), a dashboard with **List** and **Calendar** views (color-coded by brand), and phone push alerts for anything new. Every alert has a button that opens the buy / entry page ("Enter lottery", "Pre-order now", ...), and tapping the notification opens it too.
 
 ## Setup (about 10 minutes)
 
@@ -46,6 +47,14 @@ Output: a subscribable calendar (`drops.ics`), a dashboard page, and phone push 
 | Event-exclusive / in-person only (Bandai Card Games Fest, Pirates League prizes, TCG+ app events) | At events | ❌ No | Not sold online. The Bandai Namco shop feed catches Pirates League schedule posts only. |
 | Japanese Premium Bandai (p-bandai.jp) | JP lotteries | ❌ No | Out of scope; your Japan proxy flow covers it. |
 
+### Riftbound (Riot Merch Store)
+
+| Channel | Covered? | How / caveat |
+|---|---|---|
+| **Riot Merch Store drawings** (booster displays, bundles, signature editions) | ✅ Yes | Reads playriftbound.com news. For drawing posts it extracts the sign-up window (e.g. "Sept 25-30, 9:00 AM PT") → calendar event at the exact open time, a push ~60 min before, and a LAST DAY event. Winners are emailed and get 24h to check out, so keep riotgames.com out of spam. |
+| **New Riftbound product pages** on merch.riotgames.com | ✅ Yes | Riot's public sitemap; a new Riftbound product URL = alert. The sitemap has no dates, so products already listed on the first run are treated as history. |
+| Riot drops announced only on X/Discord | ❌ No | Riot has posted every merch drawing to the news page so far. |
+
 ### Everything else
 
 | Channel | Covered? | Notes |
@@ -67,7 +76,7 @@ Output: a subscribable calendar (`drops.ics`), a dashboard page, and phone push 
 ```bash
 pip install -r requirements.txt
 python run.py --dry-run      # prints what it would alert; changes nothing
-python -m pytest -q          # 22 tests, no network needed
+python -m pytest -q          # 28 tests, no network needed
 ```
 
 ## Costs
