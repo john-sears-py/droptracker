@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T05:20:28.494563+00:00",
+ "generated": "2026-09-20T10:03:33.963800+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -75,6 +75,36 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "pbandai:op16",
+   "game": "One Piece",
+   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
+   "url": "https://p-bandai.com/us/hotdeals/op16",
+   "source": "p-bandai.com (US)",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-09-17",
+   "price": null,
+   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op16"
+  },
+  {
+   "id": "pbandai:op17",
+   "game": "One Piece",
+   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
+   "url": "https://p-bandai.com/us/hotdeals/op17",
+   "source": "p-bandai.com (US)",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-09-17",
+   "price": null,
+   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op17"
   },
   {
    "id": "onepiece:sd01.html",
@@ -558,7 +588,6 @@
   }
  ],
  "errors": [
-  "premium bandai US: HTTPError: 403 Client Error: Forbidden for url: https://p-bandai.com/us/sitemap-content_1.xml",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
