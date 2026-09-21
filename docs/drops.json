@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T22:01:37.364639+00:00",
+ "generated": "2026-09-21T00:17:18.356985+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -12,21 +12,6 @@
    "day": "2026-09-10",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3361286",
-   "game": "Pokemon",
-   "title": "Mewtwo 30th Celebration Store Promo Revealed",
-   "url": "https://www.pokeguardian.com/3361286_mewtwo-30th-celebration-store-promo-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-09-10",
-   "price": null,
-   "note": "Mewtwo from the upcoming 30th Celebration set, will be a store promo for\u00a0at least USA, Canada, and Australia / New Zealand.",
    "premium": false,
    "tags": [],
    "buy_url": null

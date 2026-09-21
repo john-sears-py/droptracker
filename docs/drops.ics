@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:896c85345d68@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -20,22 +20,8 @@ DTEND;VALUE=DATE:20260911
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pokeguardian:3361286@droptracker
-DTSTAMP:20260920T220137Z
-SUMMARY:NEWS [Pokemon] Mewtwo 30th Celebration Store Promo Revealed
-DESCRIPTION:Mewtwo from the upcoming 30th Celebration set\, will be a store
-  promo for at least USA\, Canada\, and Australia / New Zealand.\nSource: 
- PokeGuardian\nhttps://www.pokeguardian.com/3361286_mewtwo-30th-celebration
- -store-promo-revealed
-URL:https://www.pokeguardian.com/3361286_mewtwo-30th-celebration-store-prom
- o-revealed
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8854998450199@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:PREORDER [Magic] MTG Foundations Commander Deck Wretched Ranks Pre-
  Order ($23.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -55,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:secret-garden-bundle-events@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:NEWS [Riftbound] Secret Garden Bundle Events
 DESCRIPTION:Here are the events that Secret Garden Bundle will be available
   at through the end of the year.\nSource: playriftbound.com\nhttps://playr
@@ -68,7 +54,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3368431@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:NEWS [Pokemon] 30th Celebration Full Digital Set List Revealed
 DESCRIPTION:30th Celebration is scheduled to launch on September 16\, 2026.
  \nSource: PokeGuardian\nhttps://www.pokeguardian.com/3368431_30th-celebrat
@@ -81,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op16@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME  -THE TIME OF BATTLE- [OP-16] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -102,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op17@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME -THE WORLD’S STRONGEST WARRIORS- [OP-17] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -123,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:sd01.html@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [One Piece] Set Sail Deck Set [SD-01] (USD $24.99)
 DESCRIPTION:delivers September 18\, 2026\nSource: onepiece-cardgame.com\nht
  tps://en.onepiece-cardgame.com/products/sd01.html
@@ -139,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:DROP [Topps] 2026-27 Topps Flagship Basketball
 DESCRIPTION:11:00 AM Chicago. Maybe - check whether the 2026 draft class is
   in it.\nSource: manual\nhttps://www.topps.com/release-calendar
@@ -154,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-bowman-chrome-baseball-hobby:2026-09-23t16-00-00-00-00@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:DROP [Topps] 2026 Bowman Chrome Baseball (hobby)
 DESCRIPTION:11:00 AM Chicago. Last year's hobby box ~$512 a year later.\nSo
  urce: manual\nhttps://www.topps.com/pages/bowman-chrome-baseball
@@ -169,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2025-26-topps-pristine-basketball:2026-09-24t16-00-00-00-00@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:DROP [Topps] 2025-26 Topps Pristine Basketball
 DESCRIPTION:High-end\; only if the price leaves room.\nSource: manual\nhttp
  s://www.topps.com/release-calendar
@@ -184,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:radiance-merch-store-update:opens@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:LOTTERY [Riftbound] Riot drawing sign-up opens: Radiance Merch Stor
  e Update
 DESCRIPTION:Sign-up closes 2026-09-30\; drawing starts 2026-10-05\; winners
@@ -204,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:radiance-merch-store-update:closes@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:LOTTERY [Riftbound] LAST DAY to sign up: Radiance Merch Store Updat
  e
 DESCRIPTION:Source: playriftbound.com\nhttps://playriftbound.com/en-us/news
@@ -223,7 +209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-star-wars:2026-09-30@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Star Wars
 DESCRIPTION:Time not listed yet - check the Topps calendar and add a start 
  time.\nSource: manual\nhttps://www.topps.com/release-calendar
@@ -239,7 +225,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-formula-1:2026-10-15@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Formula 1
 DESCRIPTION:Top pick. Last year's hobby box ~$932. Add the exact time when 
  Topps posts it.\nSource: manual\nhttps://www.topps.com/pages/topps-chrome-
@@ -256,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-samurai-japan-release:2026-10-16@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [Topps] 2026 Topps Chrome Samurai Japan (release)
 DESCRIPTION:Sakura successor. Boxes were EQL raffle ($150).\nSource: manual
  \nhttps://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-col
@@ -274,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -289,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:ts03.html@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [One Piece] Mini Case Set -Luffy/Shanks/Hancock- [TS-03] (U
  SD $11.99)
 DESCRIPTION:delivers October 30\, 2026\nSource: onepiece-cardgame.com\nhttp
@@ -307,7 +293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -321,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20260920T220137Z
+DTSTAMP:20260921T001718Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
