@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T16:41:32.903366+00:00",
+ "generated": "2026-09-21T20:41:19.312496+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -15,21 +15,6 @@
    "premium": false,
    "tags": [],
    "buy_url": null
-  },
-  {
-   "id": "shopify:tierzerogames.com:8854998450199",
-   "game": "Magic",
-   "title": "MTG Foundations Commander Deck Wretched Ranks Pre-Order",
-   "url": "https://tierzerogames.com/products/mtg-foundations-commander-deck-wretched-ranks-pre-order",
-   "source": "TierZero Games",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-09-11",
-   "price": "$23.95",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [],
-   "buy_url": "https://tierzerogames.com/products/mtg-foundations-commander-deck-wretched-ranks-pre-order"
   },
   {
    "id": "riot:secret-garden-bundle-events",
