@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T23:43:14.436051+00:00",
+ "generated": "2026-09-22T02:18:16.166223+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -12,21 +12,6 @@
    "day": "2026-09-10",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "riot:secret-garden-bundle-events",
-   "game": "Riftbound",
-   "title": "Secret Garden Bundle Events",
-   "url": "https://playriftbound.com/en-us/news/announcements/secret-garden-bundle-events",
-   "source": "playriftbound.com",
-   "kind": "news",
-   "start": null,
-   "day": "2026-09-11",
-   "price": null,
-   "note": "Here are the events that Secret Garden Bundle will be available at through the end of the year.",
    "premium": false,
    "tags": [],
    "buy_url": null
