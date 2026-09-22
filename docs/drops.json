@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T07:45:59.304364+00:00",
+ "generated": "2026-09-22T12:55:06.635262+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -27,6 +27,21 @@
    "day": "2026-09-15",
    "price": null,
    "note": "30th Celebration is scheduled to launch on September 16, 2026.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3377773",
+   "game": "Pokemon",
+   "title": "M6a 30th CELEBRATION Set List",
+   "url": "https://www.pokeguardian.com/3377773_m6a-30th-celebration-set-list",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-16",
+   "price": null,
+   "note": "MEGA Expansion Pack 30th CELEBRATION releases September 16, 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
