@@ -1,21 +1,6 @@
 {
- "generated": "2026-09-23T01:30:56.067358+00:00",
+ "generated": "2026-09-23T06:36:18.493516+00:00",
  "drops": [
-  {
-   "id": "rss:Bandai Namco US Shops:896c85345d68",
-   "game": "One Piece",
-   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
-   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-2/",
-   "source": "Bandai Namco US Shops",
-   "kind": "news",
-   "start": null,
-   "day": "2026-09-10",
-   "price": null,
-   "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "pokeguardian:3368431",
    "game": "Pokemon",
@@ -558,6 +543,7 @@
   }
  ],
  "errors": [
+  "rss Bandai Namco US Shops: ConnectTimeout: HTTPSConnectionPool(host='shop.bandainamco-am.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='shop.bandainamco-am.com', port=443) at 0x7f866c94ea10>, 'Connection to shop.bandainamco-am.com timed o",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
