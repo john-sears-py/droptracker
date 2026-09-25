@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T06:48:56.867670+00:00",
+ "generated": "2026-09-25T12:24:17.571861+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -77,21 +77,6 @@
    "buy_url": "https://p-bandai.com/us/hotdeals/op17"
   },
   {
-   "id": "onepiece:sd01.html",
-   "game": "One Piece",
-   "title": "Set Sail Deck Set [SD-01]",
-   "url": "https://en.onepiece-cardgame.com/products/sd01.html",
-   "source": "onepiece-cardgame.com",
-   "kind": "release",
-   "start": null,
-   "day": "2026-09-18",
-   "price": "USD $24.99",
-   "note": "delivers September 18, 2026",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
    "game": "Topps",
    "title": "2026-27 Topps Flagship Basketball",
@@ -133,6 +118,21 @@
    "price": null,
    "note": "High-end; only if the price leaves room.",
    "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3382236",
+   "game": "Pokemon",
+   "title": "Pokemon Card Game Collection File Premium Features Each Region from Kanto to Paldea",
+   "url": "https://www.pokeguardian.com/3382236_pokemon-card-game-collection-file-premium-features-each-region-from-kanto-to-paldea",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-25",
+   "price": null,
+   "note": "A new line-up of collection files (which are ring binders) are coming to Pokemon Center and Pokemon Center Online Japan in October. These feature designs from all 9 regions so you can line them up together.",
+   "premium": true,
    "tags": [],
    "buy_url": null
   },
@@ -267,6 +267,21 @@
    "day": "2026-11-13",
    "price": null,
    "note": "Crossover - the outside-buyer pattern.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "onepiece:op18.html",
+   "game": "One Piece",
+   "title": "BOOSTER PACK  -THE DOMINANCE OF GOD- [OP-18]",
+   "url": "https://en.onepiece-cardgame.com/products/op18.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-11-20",
+   "price": "USD $4.99 per pack",
+   "note": "delivers November 20, 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
