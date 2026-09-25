@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T12:24:17.571861+00:00",
+ "generated": "2026-09-25T17:30:47.623652+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -122,6 +122,21 @@
    "buy_url": null
   },
   {
+   "id": "riot:radiance-merch-store-update:opens",
+   "game": "Riftbound",
+   "title": "Riot drawing sign-up opens: Radiance Merch Store Update",
+   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
+   "source": "playriftbound.com",
+   "kind": "lottery",
+   "start": "2026-09-25T16:00:00+00:00",
+   "day": null,
+   "price": null,
+   "note": "Sign-up closes 2026-09-30; drawing starts 2026-10-05; winners get 24h to check out; needs a Riot account and riotgames.com email not in spam",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
+  },
+  {
    "id": "pokeguardian:3382236",
    "game": "Pokemon",
    "title": "Pokemon Card Game Collection File Premium Features Each Region from Kanto to Paldea",
@@ -137,19 +152,49 @@
    "buy_url": null
   },
   {
-   "id": "riot:radiance-merch-store-update:opens",
+   "id": "riotmerch:riftbound-radiance-booster-display",
    "game": "Riftbound",
-   "title": "Riot drawing sign-up opens: Radiance Merch Store Update",
-   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
-   "source": "playriftbound.com",
-   "kind": "lottery",
-   "start": "2026-09-25T16:00:00+00:00",
-   "day": null,
+   "title": "New on Riot Merch Store: Riftbound Radiance Booster Display",
+   "url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-booster-display/",
+   "source": "merch.riotgames.com",
+   "kind": "drop",
+   "start": null,
+   "day": "2026-09-25",
    "price": null,
-   "note": "Sign-up closes 2026-09-30; drawing starts 2026-10-05; winners get 24h to check out; needs a Riot account and riotgames.com email not in spam",
+   "note": "New product page. Check whether it's first-come or a drawing.",
    "premium": true,
    "tags": [],
-   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
+   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-booster-display/"
+  },
+  {
+   "id": "riotmerch:riftbound-radiance-evelynn-seraphine-showdown",
+   "game": "Riftbound",
+   "title": "New on Riot Merch Store: Riftbound Radiance Evelynn Seraphine Showdown",
+   "url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-evelynn-seraphine-showdown/",
+   "source": "merch.riotgames.com",
+   "kind": "drop",
+   "start": null,
+   "day": "2026-09-25",
+   "price": null,
+   "note": "New product page. Check whether it's first-come or a drawing.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-evelynn-seraphine-showdown/"
+  },
+  {
+   "id": "riot:product-drawing-faq",
+   "game": "Riftbound",
+   "title": "Riftbound Radiance Drawing FAQ",
+   "url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/",
+   "source": "playriftbound.com",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-09-25",
+   "price": null,
+   "note": "Everything you need to know about the Radiance merch drawings.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
   },
   {
    "id": "riot:radiance-merch-store-update:closes",

@@ -94,10 +94,17 @@
  },
  "pbandai_titles": {
   "https://p-bandai.com/us/hotdeals/op16|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
-  "https://p-bandai.com/us/hotdeals/op17|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box"
+  "https://p-bandai.com/us/hotdeals/op17|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
+  "https://p-bandai.com/us/hotdeals/premiumbandaiweek|2026-09-25": "PREMIUM BANDAI WEEK"
  },
  "reminded": {},
  "riot_articles": {
+  "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/": {
+   "closes": null,
+   "drawing": null,
+   "opens": null,
+   "register": null
+  },
   "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update": {
    "closes": "2026-09-30",
    "drawing": "2026-10-05",
@@ -120,6 +127,8 @@
    "https://merch.riotgames.com/product/riftbound-origins-champion-deck-leesin/": null,
    "https://merch.riotgames.com/product/riftbound-origins-champion-deck-viktor/": null,
    "https://merch.riotgames.com/product/riftbound-proving-grounds/": null,
+   "https://merch.riotgames.com/product/riftbound-radiance-booster-display/": "2026-09-25",
+   "https://merch.riotgames.com/product/riftbound-radiance-evelynn-seraphine-showdown/": "2026-09-25",
    "https://merch.riotgames.com/product/riftbound-spiritforged-booster-display/": null,
    "https://merch.riotgames.com/product/riftbound-spiritforged-champion-deck-fiora/": null,
    "https://merch.riotgames.com/product/riftbound-spiritforged-champion-deck-rumble/": null,
@@ -307,6 +316,10 @@
    "first": "2026-09-25T12:24:17.571861+00:00",
    "sig": "news|2026-09-25"
   },
+  "riot:product-drawing-faq": {
+   "first": "2026-09-25T17:30:47.623652+00:00",
+   "sig": "lottery|2026-09-25"
+  },
   "riot:radiance-merch-store-update:closes": {
    "first": "2026-09-19T20:59:06.191885+00:00",
    "sig": "lottery|2026-09-30"
@@ -318,6 +331,14 @@
   "riot:secret-garden-bundle-events": {
    "first": "2026-09-19T20:59:06.191885+00:00",
    "sig": "news|2026-09-11"
+  },
+  "riotmerch:riftbound-radiance-booster-display": {
+   "first": "2026-09-25T17:30:47.623652+00:00",
+   "sig": "drop|2026-09-25"
+  },
+  "riotmerch:riftbound-radiance-evelynn-seraphine-showdown": {
+   "first": "2026-09-25T17:30:47.623652+00:00",
+   "sig": "drop|2026-09-25"
   },
   "rss:Bandai Namco US Shops:4a56f87a132d": {
    "first": "2026-09-19T18:49:22.942653+00:00",
