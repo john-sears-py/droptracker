@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T23:41:02.528546+00:00",
+ "generated": "2026-09-26T02:26:30.577977+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -12,21 +12,6 @@
    "day": "2026-09-10",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3368431",
-   "game": "Pokemon",
-   "title": "30th Celebration Full Digital Set List Revealed",
-   "url": "https://www.pokeguardian.com/3368431_30th-celebration-full-digital-set-list-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-09-15",
-   "price": null,
-   "note": "30th Celebration is scheduled to launch on September 16, 2026.",
    "premium": false,
    "tags": [],
    "buy_url": null
