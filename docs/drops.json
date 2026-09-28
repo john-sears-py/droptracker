@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T13:57:57.078355+00:00",
+ "generated": "2026-09-28T20:22:17.929544+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -150,6 +150,21 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:0e09c1b0860d",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-3/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-28",
+   "price": null,
+   "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-topps-chrome-star-wars:2026-09-30",
