@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T22:13:03.659565+00:00",
+ "generated": "2026-09-28T00:48:09.211072+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:896c85345d68",
@@ -92,21 +92,6 @@
    "buy_url": null
   },
   {
-   "id": "riot:radiance-merch-store-update:opens",
-   "game": "Riftbound",
-   "title": "Riot drawing sign-up opens: Radiance Merch Store Update",
-   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
-   "source": "playriftbound.com",
-   "kind": "lottery",
-   "start": "2026-09-25T16:00:00+00:00",
-   "day": null,
-   "price": null,
-   "note": "Sign-up closes 2026-09-30; drawing starts 2026-10-05; winners get 24h to check out; needs a Riot account and riotgames.com email not in spam",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
-  },
-  {
    "id": "pokeguardian:3382236",
    "game": "Pokemon",
    "title": "Pokemon Card Game Collection File Premium Features Each Region from Kanto to Paldea",
@@ -165,21 +150,6 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
-  },
-  {
-   "id": "riot:radiance-merch-store-update:closes",
-   "game": "Riftbound",
-   "title": "LAST DAY to sign up: Radiance Merch Store Update",
-   "url": "https://playriftbound.com/en-us/news/announcements/radiance-merch-store-update",
-   "source": "playriftbound.com",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-09-30",
-   "price": null,
-   "note": "",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://playriftbound.com/en-us/preorder/registration/"
   },
   {
    "id": "manual:2026-topps-chrome-star-wars:2026-09-30",
