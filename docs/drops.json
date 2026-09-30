@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-29T22:33:22.592151+00:00",
+ "generated": "2026-09-30T01:29:20.789169+00:00",
  "drops": [
+  {
+   "id": "rss:Bandai Namco US Shops:896c85345d68",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-2/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-10",
+   "price": null,
+   "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
   {
    "id": "pbandai:op16",
    "game": "One Piece",
@@ -135,6 +150,21 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:0e09c1b0860d",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-3/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-09-28",
+   "price": null,
+   "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-topps-chrome-star-wars:2026-09-30",
@@ -543,7 +573,6 @@
   }
  ],
  "errors": [
-  "rss Bandai Namco US Shops: ConnectTimeout: HTTPSConnectionPool(host='shop.bandainamco-am.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='shop.bandainamco-am.com', port=443) at 0x7f8dd543e090>, 'Connection to shop.bandainamco-am.com timed o",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
