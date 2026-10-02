@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T08:56:46.006482+00:00",
+ "generated": "2026-10-02T15:14:47.111475+00:00",
  "drops": [
   {
    "id": "pbandai:op16",
@@ -266,6 +266,21 @@
    "start": null,
    "day": "2026-11-20",
    "price": "USD $4.99 per pack",
+   "note": "delivers November 20, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "onepiece:gift-collection.html",
+   "game": "One Piece",
+   "title": "Gift Collection -ONE PIECE Heroines- [GC-2026]",
+   "url": "https://en.onepiece-cardgame.com/products/gift-collection.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-11-20",
+   "price": "USD $44.99",
    "note": "delivers November 20, 2026",
    "premium": false,
    "tags": [],
