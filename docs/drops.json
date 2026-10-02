@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T19:57:36.765380+00:00",
+ "generated": "2026-10-02T23:31:32.863562+00:00",
  "drops": [
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -212,6 +212,21 @@
    "buy_url": null
   },
   {
+   "id": "onepiece:eb05.html",
+   "game": "One Piece",
+   "title": "EXTRA BOOSTER -ONE PIECE HEROINES EDITION vol.2- [EB-05]",
+   "url": "https://en.onepiece-cardgame.com/products/eb05.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-10-30",
+   "price": "USD $4.99 per pack",
+   "note": "delivers October 30,2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "onepiece:ts03.html",
    "game": "One Piece",
    "title": "Mini Case Set -Luffy/Shanks/Hancock- [TS-03]",
@@ -282,21 +297,6 @@
    "day": "2026-11-20",
    "price": "USD $44.99",
    "note": "delivers November 20, 2026",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "onepiece:eb05.html",
-   "game": "One Piece",
-   "title": "EXTRA BOOSTER -ONE PIECE HEROINES EDITION vol.2- [EB-05]",
-   "url": "https://en.onepiece-cardgame.com/products/eb05.html",
-   "source": "onepiece-cardgame.com",
-   "kind": "release",
-   "start": null,
-   "day": null,
-   "price": "USD $4.99 per pack",
-   "note": "delivers October 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
