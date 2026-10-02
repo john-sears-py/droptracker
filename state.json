@@ -101,7 +101,9 @@
  },
  "pbandai_titles": {
   "https://p-bandai.com/us/hotdeals/op16|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
+  "https://p-bandai.com/us/hotdeals/op16|2026-10-02": "Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
   "https://p-bandai.com/us/hotdeals/op17|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
+  "https://p-bandai.com/us/hotdeals/op17|2026-10-02": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
   "https://p-bandai.com/us/hotdeals/premiumbandaiweek|2026-09-25": "PREMIUM BANDAI WEEK"
  },
  "reminded": {},
@@ -253,11 +255,11 @@
   },
   "pbandai:op16": {
    "first": "2026-09-19T18:49:22.942653+00:00",
-   "sig": "lottery|2026-09-17"
+   "sig": "lottery|2026-10-02"
   },
   "pbandai:op17": {
    "first": "2026-09-19T18:49:22.942653+00:00",
-   "sig": "lottery|2026-09-17"
+   "sig": "lottery|2026-10-02"
   },
   "pokeguardian:2819640": {
    "first": "2026-09-19T20:59:06.191885+00:00",
