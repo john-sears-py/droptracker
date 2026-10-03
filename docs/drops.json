@@ -1,36 +1,6 @@
 {
- "generated": "2026-10-03T08:12:55.941361+00:00",
+ "generated": "2026-10-03T13:24:04.423378+00:00",
  "drops": [
-  {
-   "id": "pbandai:op16",
-   "game": "One Piece",
-   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
-   "url": "https://p-bandai.com/us/hotdeals/op16",
-   "source": "p-bandai.com (US)",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-09-17",
-   "price": null,
-   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://p-bandai.com/us/hotdeals/op16"
-  },
-  {
-   "id": "pbandai:op17",
-   "game": "One Piece",
-   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
-   "url": "https://p-bandai.com/us/hotdeals/op17",
-   "source": "p-bandai.com (US)",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-09-17",
-   "price": null,
-   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://p-bandai.com/us/hotdeals/op17"
-  },
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
    "game": "Topps",
@@ -165,6 +135,36 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "pbandai:op16",
+   "game": "One Piece",
+   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
+   "url": "https://p-bandai.com/us/hotdeals/op16",
+   "source": "p-bandai.com (US)",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-02",
+   "price": null,
+   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op16"
+  },
+  {
+   "id": "pbandai:op17",
+   "game": "One Piece",
+   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
+   "url": "https://p-bandai.com/us/hotdeals/op17",
+   "source": "p-bandai.com (US)",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-02",
+   "price": null,
+   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://p-bandai.com/us/hotdeals/op17"
   },
   {
    "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
