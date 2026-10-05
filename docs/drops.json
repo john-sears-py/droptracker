@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T05:50:31.875559+00:00",
+ "generated": "2026-10-05T12:57:03.684761+00:00",
  "drops": [
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -90,21 +90,6 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-evelynn-seraphine-showdown/"
-  },
-  {
-   "id": "riot:product-drawing-faq",
-   "game": "Riftbound",
-   "title": "Riftbound Radiance Drawing FAQ",
-   "url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/",
-   "source": "playriftbound.com",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-09-25",
-   "price": null,
-   "note": "Everything you need to know about the Radiance merch drawings.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
   },
   {
    "id": "rss:Bandai Namco US Shops:0e09c1b0860d",
@@ -573,6 +558,7 @@
   }
  ],
  "errors": [
+  "riftbound news (Riot drawings): ReadTimeout: HTTPSConnectionPool(host='playriftbound.com', port=443): Read timed out. (read timeout=20)",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
