@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T12:57:03.684761+00:00",
+ "generated": "2026-10-06T01:35:39.080400+00:00",
  "drops": [
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -43,21 +43,6 @@
    "price": null,
    "note": "High-end; only if the price leaves room.",
    "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3382236",
-   "game": "Pokemon",
-   "title": "Pokemon Card Game Collection File Premium Features Each Region from Kanto to Paldea",
-   "url": "https://www.pokeguardian.com/3382236_pokemon-card-game-collection-file-premium-features-each-region-from-kanto-to-paldea",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-09-25",
-   "price": null,
-   "note": "A new line-up of collection files (which are ring binders) are coming to Pokemon Center and Pokemon Center Online Japan in October. These feature designs from all 9 regions so you can line them up together.",
-   "premium": true,
    "tags": [],
    "buy_url": null
   },
@@ -150,6 +135,21 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://p-bandai.com/us/hotdeals/op17"
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:15497b4ca15d",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-4/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-05",
+   "price": null,
+   "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
@@ -558,7 +558,6 @@
   }
  ],
  "errors": [
-  "riftbound news (Riot drawings): ReadTimeout: HTTPSConnectionPool(host='playriftbound.com', port=443): Read timed out. (read timeout=20)",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"

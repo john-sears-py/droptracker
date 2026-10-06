@@ -1,49 +1,49 @@
 {
  "onepiece_detail": {
   "https://en.onepiece-cardgame.com/products/3rd_anniversary_set_cn.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/card_collection_asl.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/collection-6assort-vol2.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/collection-drama002.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "November 2026",
    "premium": true,
    "preorder_day": "2026-04-24",
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/collection-drama003.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "November 2026",
    "premium": true,
    "preorder_day": "2026-04-24",
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/eb05.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "October 30,2026",
    "premium": false,
    "preorder_day": null,
    "release_day": "2026-10-30"
   },
   "https://en.onepiece-cardgame.com/products/gift-collection.html": {
-   "checked": "2026-10-05T05:50:31.875559+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "November 20, 2026",
    "premium": false,
    "preorder_day": null,
@@ -57,14 +57,14 @@
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/op18.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "November 20, 2026",
    "premium": false,
    "preorder_day": null,
    "release_day": "2026-11-20"
   },
   "https://en.onepiece-cardgame.com/products/playmat_liffy-bonney.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
@@ -78,21 +78,21 @@
    "release_day": "2026-09-18"
   },
   "https://en.onepiece-cardgame.com/products/sleeve045.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/sleeve046.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/ts03.html": {
-   "checked": "2026-10-05T12:57:03.684761+00:00",
+   "checked": "2026-10-06T01:35:39.080400+00:00",
    "delivery": "October 30, 2026",
    "premium": false,
    "preorder_day": null,
@@ -104,7 +104,9 @@
   "https://p-bandai.com/us/hotdeals/op16|2026-10-02": "Chance to Buy: ONE PIECE CARD GAME  -THE TIME OF BATTLE- [OP-16] Booster Box",
   "https://p-bandai.com/us/hotdeals/op17|2026-09-17": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
   "https://p-bandai.com/us/hotdeals/op17|2026-10-02": "Chance to Buy: ONE PIECE CARD GAME -THE WORLD\u2019S STRONGEST WARRIORS- [OP-17] Booster Box",
-  "https://p-bandai.com/us/hotdeals/premiumbandaiweek|2026-09-25": "PREMIUM BANDAI WEEK"
+  "https://p-bandai.com/us/hotdeals/premiumbandaifanfavoritevoting|2026-10-05": "PREMIUM BANDAI FAN FAVORITE VOTING",
+  "https://p-bandai.com/us/hotdeals/premiumbandaiweek|2026-09-25": "PREMIUM BANDAI WEEK",
+  "https://p-bandai.com/us/hotdeals/premiumbandaiweek|2026-10-05": "PREMIUM BANDAI WEEK"
  },
  "reminded": {},
  "riot_articles": {
@@ -356,6 +358,10 @@
   "rss:Bandai Namco US Shops:0e09c1b0860d": {
    "first": "2026-09-28T20:22:17.929544+00:00",
    "sig": "news|2026-09-28"
+  },
+  "rss:Bandai Namco US Shops:15497b4ca15d": {
+   "first": "2026-10-06T01:35:39.080400+00:00",
+   "sig": "news|2026-10-05"
   },
   "rss:Bandai Namco US Shops:4a56f87a132d": {
    "first": "2026-09-19T18:49:22.942653+00:00",
