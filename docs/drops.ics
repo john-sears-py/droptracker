@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Topps] 2026-27 Topps Flagship Basketball
 DESCRIPTION:11:00 AM Chicago. Maybe - check whether the 2026 draft class is
   in it.\nSource: manual\nhttps://www.topps.com/release-calendar
@@ -23,7 +23,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-bowman-chrome-baseball-hobby:2026-09-23t16-00-00-00-00@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Topps] 2026 Bowman Chrome Baseball (hobby)
 DESCRIPTION:11:00 AM Chicago. Last year's hobby box ~$512 a year later.\nSo
  urce: manual\nhttps://www.topps.com/pages/bowman-chrome-baseball
@@ -38,7 +38,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2025-26-topps-pristine-basketball:2026-09-24t16-00-00-00-00@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Topps] 2025-26 Topps Pristine Basketball
 DESCRIPTION:High-end\; only if the price leaves room.\nSource: manual\nhttp
  s://www.topps.com/release-calendar
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-radiance-booster-display@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Radiance Booste
  r Display
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-radiance-evelynn-seraphine-showdown@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Radiance Evelyn
  n Seraphine Showdown
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -93,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:0e09c1b0860d@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-star-wars:2026-09-30@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Star Wars
 DESCRIPTION:Time not listed yet - check the Topps calendar and add a start 
  time.\nSource: manual\nhttps://www.topps.com/release-calendar
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op16@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME  -THE TIME OF BATTLE- [OP-16] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op17@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME -THE WORLD’S STRONGEST WARRIORS- [OP-17] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -164,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:15497b4ca15d@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -177,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-formula-1:2026-10-15@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Formula 1
 DESCRIPTION:Top pick. Last year's hobby box ~$932. Add the exact time when 
  Topps posts it.\nSource: manual\nhttps://www.topps.com/pages/topps-chrome-
@@ -194,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-samurai-japan-release:2026-10-16@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [Topps] 2026 Topps Chrome Samurai Japan (release)
 DESCRIPTION:Sakura successor. Boxes were EQL raffle ($150).\nSource: manual
  \nhttps://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-col
@@ -212,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -227,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:eb05.html@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [One Piece] EXTRA BOOSTER -ONE PIECE HEROINES EDITION vol.2
  - [EB-05] (USD $4.99 per pack)
 DESCRIPTION:delivers October 30\,2026\nSource: onepiece-cardgame.com\nhttps
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:ts03.html@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [One Piece] Mini Case Set -Luffy/Shanks/Hancock- [TS-03] (U
  SD $11.99)
 DESCRIPTION:delivers October 30\, 2026\nSource: onepiece-cardgame.com\nhttp
@@ -263,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -277,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -291,7 +291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op18.html@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK  -THE DOMINANCE OF GOD- [OP-18] (U
  SD $4.99 per pack)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:gift-collection.html@droptracker
-DTSTAMP:20261006T080438Z
+DTSTAMP:20261006T151331Z
 SUMMARY:RELEASE [One Piece] Gift Collection -ONE PIECE Heroines- [GC-2026] 
  (USD $44.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
