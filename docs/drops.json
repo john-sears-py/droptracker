@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T17:38:38.104761+00:00",
+ "generated": "2026-10-08T22:25:01.872732+00:00",
  "drops": [
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -147,6 +147,21 @@
    "day": "2026-10-05",
    "price": null,
    "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3401360",
+   "game": "Pokemon",
+   "title": "Ultra PRO Pok\u00e9mon - Espeon & Umbreon Product Line Revealed",
+   "url": "https://www.pokeguardian.com/3401360_ultra-pro-pokemon-espeon-umbreon-product-line-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-08",
+   "price": null,
+   "note": "Ultra Pro has revealed a new Pok\u00e9mon collection. And it's Espeon & Umbreon this time around.",
    "premium": false,
    "tags": [],
    "buy_url": null
