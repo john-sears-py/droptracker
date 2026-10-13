@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T17:06:18.120979+00:00",
+ "generated": "2026-10-13T21:51:13.862087+00:00",
  "drops": [
   {
    "id": "manual:2026-27-topps-flagship-basketball:2026-09-22t16-00-00-00-00",
@@ -191,6 +191,30 @@
    "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-3-pack-blister-spanish"
   },
   {
+   "id": "shopify:www.universetcg.com:11697698734421",
+   "game": "Pokemon",
+   "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta Booster Pack - Spanish",
+   "url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-booster-pack-spanish",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-13",
+   "price": "$6.00",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "autoupload-product",
+    "booster-pack",
+    "delta-reign",
+    "dominio-delta",
+    "mega-evolution",
+    "new-release",
+    "november-2026",
+    "pokemon"
+   ],
+   "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-booster-pack-spanish"
+  },
+  {
    "id": "shopify:www.universetcg.com:11697698144597",
    "game": "Pokemon",
    "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta Elite Trainer Box - Spanish",
@@ -213,30 +237,6 @@
     "november-2026"
    ],
    "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-elite-trainer-box-spanish"
-  },
-  {
-   "id": "shopify:www.universetcg.com:11697698734421",
-   "game": "Pokemon",
-   "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta Sleeved Booster - Spanish",
-   "url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-sleeved-booster-spanish",
-   "source": "Universe TCG",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-10-13",
-   "price": "$6.00",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [
-    "autoupload-product",
-    "booster-pack",
-    "delta-reign",
-    "dominio-delta",
-    "mega-evolution",
-    "new-release",
-    "november-2026",
-    "pokemon"
-   ],
-   "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-sleeved-booster-spanish"
   },
   {
    "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
