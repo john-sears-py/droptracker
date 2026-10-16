@@ -1,21 +1,6 @@
 {
- "generated": "2026-10-15T22:20:43.458133+00:00",
+ "generated": "2026-10-16T00:41:10.432855+00:00",
  "drops": [
-  {
-   "id": "manual:2025-26-topps-pristine-basketball:2026-09-24t16-00-00-00-00",
-   "game": "Topps",
-   "title": "2025-26 Topps Pristine Basketball",
-   "url": "https://www.topps.com/release-calendar",
-   "source": "manual",
-   "kind": "drop",
-   "start": "2026-09-24T16:00:00+00:00",
-   "day": null,
-   "price": null,
-   "note": "High-end; only if the price leaves room.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "riotmerch:riftbound-radiance-booster-display",
    "game": "Riftbound",
