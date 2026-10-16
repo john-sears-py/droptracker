@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T14:23:33.902807+00:00",
+ "generated": "2026-10-16T18:18:41.832324+00:00",
  "drops": [
   {
    "id": "riotmerch:riftbound-radiance-booster-display",
@@ -219,6 +219,36 @@
    "day": "2026-10-15",
    "price": null,
    "note": "Top pick. Last year's hobby box ~$932. Add the exact time when Topps posts it.",
+   "premium": true,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:3bf00820b05c",
+   "game": "One Piece",
+   "title": "EB-05 Release Event Information",
+   "url": "https://shop.bandainamco-am.com/eb-05-release-event-information/",
+   "source": "Bandai Namco US Shops",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
+   "premium": true,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:df50872c90c3",
+   "game": "One Piece",
+   "title": "EB-05 Release Event \u2013 FAQ",
+   "url": "https://shop.bandainamco-am.com/eb-05-release-event-faq/",
+   "source": "Bandai Namco US Shops",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
    "premium": true,
    "tags": [],
    "buy_url": null
