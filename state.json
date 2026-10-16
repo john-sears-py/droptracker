@@ -91,6 +91,20 @@
    "preorder_day": null,
    "release_day": null
   },
+  "https://en.onepiece-cardgame.com/products/st37.html": {
+   "checked": "2026-10-16T09:52:32.092781+00:00",
+   "delivery": "December 18, 2026",
+   "premium": false,
+   "preorder_day": null,
+   "release_day": "2026-12-18"
+  },
+  "https://en.onepiece-cardgame.com/products/st38.html": {
+   "checked": "2026-10-16T09:52:32.092781+00:00",
+   "delivery": "December 18, 2026",
+   "premium": false,
+   "preorder_day": null,
+   "release_day": "2026-12-18"
+  },
   "https://en.onepiece-cardgame.com/products/ts03.html": {
    "checked": "2026-10-16T05:15:50.074834+00:00",
    "delivery": "October 30, 2026",
@@ -254,6 +268,14 @@
    "first": "2026-09-19T18:49:22.942653+00:00",
    "sig": "release|None"
   },
+  "onepiece:st37.html": {
+   "first": "2026-10-16T09:52:32.092781+00:00",
+   "sig": "release|2026-12-18"
+  },
+  "onepiece:st38.html": {
+   "first": "2026-10-16T09:52:32.092781+00:00",
+   "sig": "release|2026-12-18"
+  },
   "onepiece:ts03.html": {
    "first": "2026-09-19T18:49:22.942653+00:00",
    "sig": "release|2026-10-30"
@@ -337,6 +359,14 @@
   "pokeguardian:3401360": {
    "first": "2026-10-08T22:25:01.872732+00:00",
    "sig": "news|2026-10-08"
+  },
+  "pokeguardian:3412553": {
+   "first": "2026-10-16T09:52:32.092781+00:00",
+   "sig": "news|2026-10-16"
+  },
+  "pokeguardian:3412574": {
+   "first": "2026-10-16T09:52:32.092781+00:00",
+   "sig": "news|2026-10-16"
   },
   "riot:product-drawing-faq": {
    "first": "2026-09-25T17:30:47.623652+00:00",

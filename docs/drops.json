@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T05:15:50.074834+00:00",
+ "generated": "2026-10-16T09:52:32.092781+00:00",
  "drops": [
   {
    "id": "riotmerch:riftbound-radiance-booster-display",
@@ -224,6 +224,36 @@
    "buy_url": null
   },
   {
+   "id": "pokeguardian:3412553",
+   "game": "Pokemon",
+   "title": "MEGA Special Deck Set Mega Feraligatr, Mega Dragonite, Mega Gengar Revealed",
+   "url": "https://www.pokeguardian.com/3412553_mega-special-deck-set-mega-feraligatr-mega-dragonite-mega-gengar-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "The MEGA Special Deck Set ex Mega Feraligatr, Mega Dragonite, Mega Gengar has been revealed.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3412574",
+   "game": "Pokemon",
+   "title": "New 6th MEGA Pokemon Card Gym Promo Cards Revealed, Features Mega Heatran ex",
+   "url": "https://www.pokeguardian.com/3412574_new-6th-mega-pokemon-card-gym-promo-cards-revealed-features-mega-heatran-ex",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "Mega Heatran ex, Lebanne, Gastly, Golett, Hariyama, Gywnn and Energy Recycler are part of the 6th Mega Pokemon Card GYM Promo set.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "manual:2026-topps-chrome-samurai-japan-release:2026-10-16",
    "game": "Topps",
    "title": "2026 Topps Chrome Samurai Japan (release)",
@@ -249,36 +279,6 @@
    "day": "2026-10-23",
    "price": null,
    "note": "Shop pre-orders are already open at some stores - the Shopify watcher catches new ones.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "onepiece:eb05.html",
-   "game": "One Piece",
-   "title": "EXTRA BOOSTER -ONE PIECE HEROINES EDITION vol.2- [EB-05]",
-   "url": "https://en.onepiece-cardgame.com/products/eb05.html",
-   "source": "onepiece-cardgame.com",
-   "kind": "release",
-   "start": null,
-   "day": "2026-10-30",
-   "price": "USD $4.99 per pack",
-   "note": "delivers October 30,2026 *Tournament Legal after 7 days.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "onepiece:ts03.html",
-   "game": "One Piece",
-   "title": "Mini Case Set -Luffy/Shanks/Hancock- [TS-03]",
-   "url": "https://en.onepiece-cardgame.com/products/ts03.html",
-   "source": "onepiece-cardgame.com",
-   "kind": "release",
-   "start": null,
-   "day": "2026-10-30",
-   "price": "USD $11.99",
-   "note": "delivers October 30, 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
@@ -339,6 +339,36 @@
    "day": "2026-11-20",
    "price": "USD $44.99",
    "note": "delivers November 20, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "onepiece:st38.html",
+   "game": "One Piece",
+   "title": "STARTER DECK -Baroque Works-  [ST-38]",
+   "url": "https://en.onepiece-cardgame.com/products/st38.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-12-18",
+   "price": "USD $16.99",
+   "note": "delivers December 18, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "onepiece:st37.html",
+   "game": "One Piece",
+   "title": "STARTER DECK -The Desert Princess and the Pirates- [ST-37]",
+   "url": "https://en.onepiece-cardgame.com/products/st37.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-12-18",
+   "price": "MSRP",
+   "note": "delivers December 18, 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
