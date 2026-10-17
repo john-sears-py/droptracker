@@ -1,36 +1,6 @@
 {
- "generated": "2026-10-16T23:40:31.723699+00:00",
+ "generated": "2026-10-17T02:00:28.579210+00:00",
  "drops": [
-  {
-   "id": "riotmerch:riftbound-radiance-booster-display",
-   "game": "Riftbound",
-   "title": "New on Riot Merch Store: Riftbound Radiance Booster Display",
-   "url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-booster-display/",
-   "source": "merch.riotgames.com",
-   "kind": "drop",
-   "start": null,
-   "day": "2026-09-25",
-   "price": null,
-   "note": "New product page. Check whether it's first-come or a drawing.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-booster-display/"
-  },
-  {
-   "id": "riotmerch:riftbound-radiance-evelynn-seraphine-showdown",
-   "game": "Riftbound",
-   "title": "New on Riot Merch Store: Riftbound Radiance Evelynn Seraphine Showdown",
-   "url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-evelynn-seraphine-showdown/",
-   "source": "merch.riotgames.com",
-   "kind": "drop",
-   "start": null,
-   "day": "2026-09-25",
-   "price": null,
-   "note": "New product page. Check whether it's first-come or a drawing.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-radiance-evelynn-seraphine-showdown/"
-  },
   {
    "id": "rss:Bandai Namco US Shops:0e09c1b0860d",
    "game": "One Piece",
