@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T23:47:31.658129+00:00",
+ "generated": "2026-10-19T02:17:19.270635+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:0e09c1b0860d",
@@ -72,21 +72,6 @@
    "day": "2026-10-05",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3401360",
-   "game": "Pokemon",
-   "title": "Ultra PRO Pok\u00e9mon - Espeon & Umbreon Product Line Revealed",
-   "url": "https://www.pokeguardian.com/3401360_ultra-pro-pokemon-espeon-umbreon-product-line-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-10-08",
-   "price": null,
-   "note": "Ultra Pro has revealed a new Pok\u00e9mon collection. And it's Espeon & Umbreon this time around.",
    "premium": false,
    "tags": [],
    "buy_url": null
