@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-star-wars:2026-09-30@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Star Wars
 DESCRIPTION:Time not listed yet - check the Topps calendar and add a start 
  time.\nSource: manual\nhttps://www.topps.com/release-calendar
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op16@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME  -THE TIME OF BATTLE- [OP-16] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op17@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME -THE WORLD’S STRONGEST WARRIORS- [OP-17] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:15497b4ca15d@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -79,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698373973@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta 3-Pack
   Blister - Spanish ($20.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698734421@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta Booste
  r Pack - Spanish ($6.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -119,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698144597@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta Elite 
  Trainer Box - Spanish ($64.99)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -139,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:01989179ca49@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-formula-1:2026-10-15@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Formula 1
 DESCRIPTION:Top pick. Last year's hobby box ~$932. Add the exact time when 
  Topps posts it.\nSource: manual\nhttps://www.topps.com/pages/topps-chrome-
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:3bf00820b05c@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:LOTTERY [One Piece] EB-05 Release Event Information
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -187,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:df50872c90c3@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:LOTTERY [One Piece] EB-05 Release Event – FAQ
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3412553@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:NEWS [Pokemon] MEGA Special Deck Set Mega Feraligatr\, Mega Dragoni
  te\, Mega Gengar Revealed
 DESCRIPTION:The MEGA Special Deck Set ex Mega Feraligatr\, Mega Dragonite\,
@@ -220,7 +220,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3412574@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:NEWS [Pokemon] New 6th MEGA Pokemon Card Gym Promo Cards Revealed\,
   Features Mega Heatran ex
 DESCRIPTION:Mega Heatran ex\, Lebanne\, Gastly\, Golett\, Hariyama\, Gywnn 
@@ -235,7 +235,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-samurai-japan-release:2026-10-16@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [Topps] 2026 Topps Chrome Samurai Japan (release)
 DESCRIPTION:Sakura successor. Boxes were EQL raffle ($150).\nSource: manual
  \nhttps://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-col
@@ -252,8 +252,353 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223293975@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Arcanum Bundle Pre-Or
+ der ($89.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-arcanum-bundle
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-arcanum-
+ bundle
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Arcanum Bundle Pr
+ e-Order ($89.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223064599@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Box Pre-Order
+  ($159.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-booster-box
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-booster-
+ box
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Box Pre-O
+ rder ($159.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987225620503@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Pack Pre-Orde
+ r ($6.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-booster-pack
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-booster-
+ pack
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Pack Pre-
+ Order ($6.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223097367@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Pack x3 Pre-O
+ rder ($20.00)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-booster-pack-x3
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-booster-
+ pack-x3
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Booster Pack x3 P
+ re-Order ($20.00)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223228439@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Bundle Pre-Order ($59
+ .95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-bundle
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-bundle
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Bundle Pre-Order 
+ ($59.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223130135@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector Booster Box
+  Pre-Order ($409.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collector-booster-box
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ r-booster-box
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector Booster
+  Box Pre-Order ($409.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223162903@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector Booster Pac
+ k Pre-Order ($39.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collector-booster-pack
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ r-booster-pack
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector Booster
+  Pack Pre-Order ($39.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223588887@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Edition C
+ ommander Deck - Gods of Asgard Pre-Order ($131.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collectors-edition-commander-deck-gods-of-as
+ gard
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ rs-edition-commander-deck-gods-of-asgard
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Editi
+ on Commander Deck - Gods of Asgard Pre-Order ($131.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223654423@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Edition C
+ ommander Deck - Lords of Hel Pre-Order ($131.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collectors-edition-commander-deck-lords-of-h
+ el
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ rs-edition-commander-deck-lords-of-hel
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Editi
+ on Commander Deck - Lords of Hel Pre-Order ($131.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223621655@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Edition C
+ ommander Deck - Midnight Sons Pre-Order ($131.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collectors-edition-commander-deck-midnight-s
+ ons
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ rs-edition-commander-deck-midnight-sons
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Editi
+ on Commander Deck - Midnight Sons Pre-Order ($131.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223687191@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Edition C
+ ommander Deck - Strange Academy Pre-Order ($131.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-collectors-edition-commander-deck-strange-ac
+ ademy
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-collecto
+ rs-edition-commander-deck-strange-academy
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Collector's Editi
+ on Commander Deck - Strange Academy Pre-Order ($131.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223392279@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - Gods
+  of Asgard Pre-Order ($59.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-commander-deck-gods-of-asgard
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-commande
+ r-deck-gods-of-asgard
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - 
+ Gods of Asgard Pre-Order ($59.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223490583@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - Lord
+ s of Hel Pre-Order ($59.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-commander-deck-lords-of-hel
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-commande
+ r-deck-lords-of-hel
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - 
+ Lords of Hel Pre-Order ($59.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223457815@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - Midn
+ ight Sons Pre-Order ($59.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-commander-deck-midnight-sons
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-commande
+ r-deck-midnight-sons
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - 
+ Midnight Sons Pre-Order ($59.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223523351@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - Stra
+ nge Academy Pre-Order ($59.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-commander-deck-strange-academy
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-commande
+ r-deck-strange-academy
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Commander Deck - 
+ Strange Academy Pre-Order ($59.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223261207@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Draft Night Pre-Order
+  ($99.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-draft-night
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-draft-ni
+ ght
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Draft Night Pre-O
+ rder ($99.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223326743@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Scene Box - Assault o
+ n Asgard Pre-Order ($39.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-scene-box-assault-on-asgard
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-scene-bo
+ x-assault-on-asgard
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Scene Box - Assau
+ lt on Asgard Pre-Order ($39.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shopify:tierzerogames.com:8987223359511@droptracker
+DTSTAMP:20261020T175944Z
+SUMMARY:PREORDER [Magic] MTG Marvel: Darkhold Destiny Scene Box - Skirmish 
+ at the Sanctum Pre-Order ($39.95)
+DESCRIPTION:open\nSource: TierZero Games\nhttps://tierzerogames.com/product
+ s/mtg-marvel-darkhold-destiny-scene-box-skirmish-at-the-sanctum
+URL:https://tierzerogames.com/products/mtg-marvel-darkhold-destiny-scene-bo
+ x-skirmish-at-the-sanctum
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PREORDER [Magic] MTG Marvel: Darkhold Destiny Scene Box - Skirm
+ ish at the Sanctum Pre-Order ($39.95)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -268,7 +613,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -282,7 +627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -296,7 +641,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op18.html@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK  -THE DOMINANCE OF GOD- [OP-18] (U
  SD $4.99 per pack)
 DESCRIPTION:delivers November 20\, 2026 *Tournament Legal after 7 days.\nSo
@@ -315,7 +660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:gift-collection.html@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [One Piece] Gift Collection -ONE PIECE Heroines- [GC-2026] 
  (USD $44.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -333,7 +678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -351,7 +696,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261020T130730Z
+DTSTAMP:20261020T175944Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
