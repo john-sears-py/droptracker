@@ -92,14 +92,14 @@
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/st37.html": {
-   "checked": "2026-10-21T04:50:51.531035+00:00",
+   "checked": "2026-10-21T19:01:26.534561+00:00",
    "delivery": "December 18, 2026",
    "premium": false,
    "preorder_day": null,
    "release_day": "2026-12-18"
   },
   "https://en.onepiece-cardgame.com/products/st38.html": {
-   "checked": "2026-10-21T04:50:51.531035+00:00",
+   "checked": "2026-10-21T19:01:26.534561+00:00",
    "delivery": "December 18, 2026",
    "premium": false,
    "preorder_day": null,
@@ -368,7 +368,7 @@
   },
   "riot:product-drawing-faq": {
    "first": "2026-09-25T17:30:47.623652+00:00",
-   "sig": "lottery|2026-09-25"
+   "sig": "lottery|2026-10-21"
   },
   "riot:radiance-merch-store-update:closes": {
    "first": "2026-09-19T20:59:06.191885+00:00",
