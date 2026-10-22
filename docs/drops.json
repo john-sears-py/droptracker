@@ -1,21 +1,6 @@
 {
- "generated": "2026-10-21T22:22:49.067181+00:00",
+ "generated": "2026-10-22T00:51:31.716761+00:00",
  "drops": [
-  {
-   "id": "manual:2026-topps-chrome-star-wars:2026-09-30",
-   "game": "Topps",
-   "title": "2026 Topps Chrome Star Wars",
-   "url": "https://www.topps.com/release-calendar",
-   "source": "manual",
-   "kind": "drop",
-   "start": null,
-   "day": "2026-09-30",
-   "price": null,
-   "note": "Time not listed yet - check the Topps calendar and add a start time.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "pbandai:op16",
    "game": "One Piece",
