@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:35:06.753029+00:00",
+ "generated": "2026-10-22T19:25:41.109609+00:00",
  "drops": [
   {
    "id": "pbandai:op16",
@@ -252,6 +252,21 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
+  },
+  {
+   "id": "riot:riftbounds-2026-drawings",
+   "game": "Riftbound",
+   "title": "Riftbound\u2019s 2026 Drawings",
+   "url": "https://playriftbound.com/en-us/news/announcements/riftbounds-2026-drawings",
+   "source": "playriftbound.com",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-22",
+   "price": null,
+   "note": "Everything about the K/DA Collection, T1 Player Bundle, 2026 Worlds Bundle, and Gift of the Rift.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://merch.riotgames.com"
   },
   {
    "id": "manual:riftbound-set-5-radiance-release:2026-10-23",

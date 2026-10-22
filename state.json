@@ -137,6 +137,12 @@
    "opens": "2026-09-25T16:00:00+00:00",
    "register": "https://playriftbound.com/en-us/preorder/registration/"
   },
+  "https://playriftbound.com/en-us/news/announcements/riftbounds-2026-drawings": {
+   "closes": null,
+   "drawing": null,
+   "opens": null,
+   "register": "https://merch.riotgames.com"
+  },
   "https://playriftbound.com/en-us/news/announcements/secret-garden-bundle-events": {
    "closes": null,
    "drawing": null,
@@ -377,6 +383,10 @@
   "riot:radiance-merch-store-update:opens": {
    "first": "2026-09-19T20:59:06.191885+00:00",
    "sig": "lottery|2026-09-25T16:00:00+00:00"
+  },
+  "riot:riftbounds-2026-drawings": {
+   "first": "2026-10-22T19:25:41.109609+00:00",
+   "sig": "lottery|2026-10-22"
   },
   "riot:secret-garden-bundle-events": {
    "first": "2026-09-19T20:59:06.191885+00:00",
