@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T06:02:58.071160+00:00",
+ "generated": "2026-10-23T11:41:33.776634+00:00",
  "drops": [
   {
    "id": "pbandai:op16",
@@ -269,6 +269,21 @@
    "buy_url": "https://merch.riotgames.com"
   },
   {
+   "id": "pokeguardian:3421035",
+   "game": "Pokemon",
+   "title": "MEGA Expansion Pack Aura Seeker Revealed",
+   "url": "https://www.pokeguardian.com/3421035_mega-expansion-pack-aura-seeker-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-23",
+   "price": null,
+   "note": "Can you feel the aura?",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "manual:riftbound-set-5-radiance-release:2026-10-23",
    "game": "Riftbound",
    "title": "Riftbound Set 5 - Radiance (release)",
@@ -329,6 +344,21 @@
    "buy_url": null
   },
   {
+   "id": "onepiece:dp13.html",
+   "game": "One Piece",
+   "title": "Double Pack Set Vol.13 [DP-13]",
+   "url": "https://en.onepiece-cardgame.com/products/dp13.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-11-20",
+   "price": "USD $11.99",
+   "note": "delivers November 20, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "onepiece:gift-collection.html",
    "game": "One Piece",
    "title": "Gift Collection -ONE PIECE Heroines- [GC-2026]",
@@ -339,6 +369,21 @@
    "day": "2026-11-20",
    "price": "USD $44.99",
    "note": "delivers November 20, 2026",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "onepiece:sleeve047.html",
+   "game": "One Piece",
+   "title": "OFFICIAL CARD SLEEVES 17",
+   "url": "https://en.onepiece-cardgame.com/products/sleeve047.html",
+   "source": "onepiece-cardgame.com",
+   "kind": "release",
+   "start": null,
+   "day": "2026-12-18",
+   "price": "USD $10.00",
+   "note": "delivers December 18, 2026",
    "premium": false,
    "tags": [],
    "buy_url": null
