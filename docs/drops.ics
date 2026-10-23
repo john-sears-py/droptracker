@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:pbandai:op16@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME  -THE TIME OF BATTLE- [OP-16] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pbandai:op17@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
  GAME -THE WORLD’S STRONGEST WARRIORS- [OP-17] Booster Box
 DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
@@ -50,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:15497b4ca15d@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -63,7 +63,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698373973@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta 3-Pack
   Blister - Spanish ($20.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698734421@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta Booste
  r Pack - Spanish ($6.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11697698144597@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:PREORDER [Pokemon] Pokémon TCG Mega Evolution Dominio Delta Elite 
  Trainer Box - Spanish ($64.99)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:01989179ca49@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-formula-1:2026-10-15@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Formula 1
 DESCRIPTION:Top pick. Last year's hobby box ~$932. Add the exact time when 
  Topps posts it.\nSource: manual\nhttps://www.topps.com/pages/topps-chrome-
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:3bf00820b05c@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [One Piece] EB-05 Release Event Information
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -171,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:df50872c90c3@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [One Piece] EB-05 Release Event – FAQ
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3412553@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [Pokemon] MEGA Special Deck Set Mega Feraligatr\, Mega Dragoni
  te\, Mega Gengar Revealed
 DESCRIPTION:The MEGA Special Deck Set ex Mega Feraligatr\, Mega Dragonite\,
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3412574@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [Pokemon] New 6th MEGA Pokemon Card Gym Promo Cards Revealed\,
   Features Mega Heatran ex
 DESCRIPTION:Mega Heatran ex\, Lebanne\, Gastly\, Golett\, Hariyama\, Gywnn 
@@ -219,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:2026-topps-chrome-samurai-japan-release:2026-10-16@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [Topps] 2026 Topps Chrome Samurai Japan (release)
 DESCRIPTION:Sakura successor. Boxes were EQL raffle ($150).\nSource: manual
  \nhttps://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-col
@@ -237,7 +237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:91202ea28dc0@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -250,7 +250,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:product-drawing-faq@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [Riftbound] Riftbound x K/DA: Couture Collection Drawing FA
  Q
 DESCRIPTION:Everything you need to know about the Riftbound x K/DA: Couture
@@ -269,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:riftbounds-2026-drawings@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:LOTTERY [Riftbound] Riftbound’s 2026 Drawings
 DESCRIPTION:Everything about the K/DA Collection\, T1 Player Bundle\, 2026 
  Worlds Bundle\, and Gift of the Rift.\nSource: playriftbound.com\nhttps://
@@ -286,8 +286,23 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokeguardian:3421701@droptracker
+DTSTAMP:20261023T195729Z
+SUMMARY:NEWS [Pokemon] Kyogre\, Groudon\, and Giratina Delta Reign Store Pr
+ omo Revealed
+DESCRIPTION:Kyogre\, Groudon\, and Giratina from the upcoming 30th Celebrat
+ ion set\, will be a store promo for at least USA\, Canada\, and Australia
+ .\nSource: PokeGuardian\nhttps://www.pokeguardian.com/3421701_kyogre-groud
+ on-and-giratina-delta-reign-store-promo-revealed
+URL:https://www.pokeguardian.com/3421701_kyogre-groudon-and-giratina-delta-
+ reign-store-promo-revealed
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pokeguardian:3421035@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:NEWS [Pokemon] MEGA Expansion Pack Aura Seeker Revealed
 DESCRIPTION:Can you feel the aura?\nSource: PokeGuardian\nhttps://www.pokeg
  uardian.com/3421035_mega-expansion-pack-aura-seeker-revealed
@@ -299,7 +314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-kda-couture-collection@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Kda Couture Col
  lection
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -319,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -334,7 +349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -348,7 +363,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -362,7 +377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op18.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK  -THE DOMINANCE OF GOD- [OP-18] (U
  SD $4.99 per pack)
 DESCRIPTION:delivers November 20\, 2026 *Tournament Legal after 7 days.\nSo
@@ -381,7 +396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:dp13.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] Double Pack Set Vol.13 [DP-13] (USD $11.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/dp13.html
@@ -397,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:gift-collection.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] Gift Collection -ONE PIECE Heroines- [GC-2026] 
  (USD $44.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -415,7 +430,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:sleeve047.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] OFFICIAL CARD SLEEVES 17 (USD $10.00)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/sleeve047.html
@@ -431,7 +446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -449,7 +464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261023T160425Z
+DTSTAMP:20261023T195729Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
