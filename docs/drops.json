@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:41:33.776634+00:00",
+ "generated": "2026-10-23T16:04:25.478408+00:00",
  "drops": [
   {
    "id": "pbandai:op16",
@@ -282,6 +282,21 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "riotmerch:riftbound-kda-couture-collection",
+   "game": "Riftbound",
+   "title": "New on Riot Merch Store: Riftbound Kda Couture Collection",
+   "url": "https://merch.riotgames.com/en-us/product/riftbound-kda-couture-collection/",
+   "source": "merch.riotgames.com",
+   "kind": "drop",
+   "start": null,
+   "day": "2026-10-23",
+   "price": null,
+   "note": "New product page. Check whether it's first-come or a drawing.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-kda-couture-collection/"
   },
   {
    "id": "manual:riftbound-set-5-radiance-release:2026-10-23",

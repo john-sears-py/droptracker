@@ -167,6 +167,7 @@
  "riot_merch": {
   "first_seen": {
    "https://merch.riotgames.com/product/riftbound-arcane-box-set/": null,
+   "https://merch.riotgames.com/product/riftbound-kda-couture-collection/": "2026-10-23",
    "https://merch.riotgames.com/product/riftbound-lunar-revel-bundle-2026/": null,
    "https://merch.riotgames.com/product/riftbound-origins-booster-display/": null,
    "https://merch.riotgames.com/product/riftbound-origins-champion-deck-jinx/": null,
@@ -417,6 +418,10 @@
   "riot:secret-garden-bundle-events": {
    "first": "2026-09-19T20:59:06.191885+00:00",
    "sig": "news|2026-09-11"
+  },
+  "riotmerch:riftbound-kda-couture-collection": {
+   "first": "2026-10-23T16:04:25.478408+00:00",
+   "sig": "drop|2026-10-23"
   },
   "riotmerch:riftbound-radiance-booster-display": {
    "first": "2026-09-25T17:30:47.623652+00:00",
