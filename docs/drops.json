@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T11:08:46.984425+00:00",
+ "generated": "2026-10-26T17:23:48.352643+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:15497b4ca15d",
@@ -15,78 +15,6 @@
    "premium": false,
    "tags": [],
    "buy_url": null
-  },
-  {
-   "id": "shopify:www.universetcg.com:11697698373973",
-   "game": "Pokemon",
-   "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta 3-Pack Blister - Spanish",
-   "url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-3-pack-blister-spanish",
-   "source": "Universe TCG",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-10-13",
-   "price": "$21.00",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [
-    "3-pack-blister",
-    "autoupload-product",
-    "blister-pack",
-    "delta-reign",
-    "dominio-delta",
-    "mega-evolution",
-    "new-release",
-    "november-2026"
-   ],
-   "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-3-pack-blister-spanish"
-  },
-  {
-   "id": "shopify:www.universetcg.com:11697698734421",
-   "game": "Pokemon",
-   "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta Booster Pack - Spanish",
-   "url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-booster-pack-spanish",
-   "source": "Universe TCG",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-10-13",
-   "price": "$7.00",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [
-    "autoupload-product",
-    "booster-pack",
-    "delta-reign",
-    "dominio-delta",
-    "mega-evolution",
-    "new-release",
-    "november-2026",
-    "pokemon"
-   ],
-   "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-booster-pack-spanish"
-  },
-  {
-   "id": "shopify:www.universetcg.com:11697698144597",
-   "game": "Pokemon",
-   "title": "Pok\u00e9mon TCG Mega Evolution Dominio Delta Elite Trainer Box - Spanish",
-   "url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-elite-trainer-box-spanish",
-   "source": "Universe TCG",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-10-13",
-   "price": "$80.00",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [
-    "autoupload-product",
-    "delta-reign",
-    "dominio-delta",
-    "elite-trainer-box",
-    "etb",
-    "mega-evolution",
-    "new-release",
-    "november-2026"
-   ],
-   "buy_url": "https://www.universetcg.com/products/pokemon-tcg-mega-evolution-dominio-delta-elite-trainer-box-spanish"
   },
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
