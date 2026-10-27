@@ -1,6 +1,21 @@
 {
- "generated": "2026-10-27T18:01:51.815395+00:00",
+ "generated": "2026-10-27T22:15:24.093436+00:00",
  "drops": [
+  {
+   "id": "rss:Bandai Namco US Shops:01989179ca49",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-5/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-14",
+   "price": null,
+   "note": "",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
   {
    "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
    "game": "Topps",
@@ -17,6 +32,36 @@
    "buy_url": null
   },
   {
+   "id": "rss:Bandai Namco US Shops:3bf00820b05c",
+   "game": "One Piece",
+   "title": "EB-05 Release Event Information",
+   "url": "https://shop.bandainamco-am.com/eb-05-release-event-information/",
+   "source": "Bandai Namco US Shops",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
+   "premium": true,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:df50872c90c3",
+   "game": "One Piece",
+   "title": "EB-05 Release Event \u2013 FAQ",
+   "url": "https://shop.bandainamco-am.com/eb-05-release-event-faq/",
+   "source": "Bandai Namco US Shops",
+   "kind": "lottery",
+   "start": null,
+   "day": "2026-10-16",
+   "price": null,
+   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
+   "premium": true,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "manual:2026-topps-chrome-samurai-japan-release:2026-10-16",
    "game": "Topps",
    "title": "2026 Topps Chrome Samurai Japan (release)",
@@ -27,6 +72,21 @@
    "day": "2026-10-16",
    "price": null,
    "note": "Sakura successor. Boxes were EQL raffle ($150).",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:91202ea28dc0",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-6/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-20",
+   "price": null,
+   "note": "",
    "premium": false,
    "tags": [],
    "buy_url": null
@@ -513,7 +573,6 @@
   }
  ],
  "errors": [
-  "rss Bandai Namco US Shops: ConnectTimeout: HTTPSConnectionPool(host='shop.bandainamco-am.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='shop.bandainamco-am.com', port=443) at 0x7fc7371f3b50>, 'Connection to shop.bandainamco-am.com timed o",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
