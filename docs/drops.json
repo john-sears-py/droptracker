@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T16:08:46.643164+00:00",
+ "generated": "2026-10-29T21:08:12.490981+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
@@ -612,6 +612,51 @@
     "Source: TierZero"
    ],
    "buy_url": "https://tierzerogames.com/products/mtg-star-trek-scene-box-enterprise-q"
+  },
+  {
+   "id": "pokeguardian:3429495",
+   "game": "Pokemon",
+   "title": "Mega Rayquaza ex Premium Tournament Collection Revealed, Deck Box and Sleeves Made by Dragon Shield",
+   "url": "https://www.pokeguardian.com/3429495_mega-rayquaza-ex-premium-tournament-collection-revealed-deck-box-and-sleeves-made-by-dragon-shield",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-29",
+   "price": null,
+   "note": "Double Dragon!",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3429516",
+   "game": "Pokemon",
+   "title": "Pok\u00e9mon (McDonald\u2019s) Happy Meal 2026/2027 with 15 Cards Officially Revealed",
+   "url": "https://www.pokeguardian.com/3429516_pokemon-mcdonald-s-happy-meal-2026-2027-with-15-cards-officially-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-29",
+   "price": null,
+   "note": "Are you Lovin' it??",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3429509",
+   "game": "Pokemon",
+   "title": "Pok\u00e9mon TCG: Valentine\u2019s Box Revealed",
+   "url": "https://www.pokeguardian.com/3429509_pokemon-tcg-valentine-s-box-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-10-29",
+   "price": null,
+   "note": "Who is your love?",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
