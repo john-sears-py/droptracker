@@ -7,21 +7,8 @@ X-WR-CALNAME:Card Drops
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:rss:Bandai Namco US Shops:01989179ca49@droptracker
-DTSTAMP:20261101T190920Z
-SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
- Edition 2026 – Updates!
-DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
- pirates-league-one-piece-card-game-official-shop-edition-2026-updates-5/
-URL:https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-offi
- cial-shop-edition-2026-updates-5/
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:manual:2026-topps-chrome-formula-1:2026-10-15@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:DROP [Topps] 2026 Topps Chrome Formula 1
 DESCRIPTION:Top pick. Last year's hobby box ~$932. Add the exact time when 
  Topps posts it.\nSource: manual\nhttps://www.topps.com/pages/topps-chrome-
@@ -37,44 +24,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rss:Bandai Namco US Shops:3bf00820b05c@droptracker
-DTSTAMP:20261101T190920Z
-SUMMARY:LOTTERY [One Piece] EB-05 Release Event Information
-DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
- ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
- : Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/eb-05-release-eve
- nt-information/
-URL:https://shop.bandainamco-am.com/eb-05-release-event-information/
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:LOTTERY [One Piece] EB-05 Release Event Information
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:rss:Bandai Namco US Shops:df50872c90c3@droptracker
-DTSTAMP:20261101T190920Z
-SUMMARY:LOTTERY [One Piece] EB-05 Release Event – FAQ
-DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
- ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
- : Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/eb-05-release-eve
- nt-faq/
-URL:https://shop.bandainamco-am.com/eb-05-release-event-faq/
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:LOTTERY [One Piece] EB-05 Release Event – FAQ
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:manual:2026-topps-chrome-samurai-japan-release:2026-10-16@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [Topps] 2026 Topps Chrome Samurai Japan (release)
 DESCRIPTION:Sakura successor. Boxes were EQL raffle ($150).\nSource: manual
  \nhttps://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-col
@@ -91,21 +42,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rss:Bandai Namco US Shops:91202ea28dc0@droptracker
-DTSTAMP:20261101T190920Z
-SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
- Edition 2026 – Updates!
-DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
- pirates-league-one-piece-card-game-official-shop-edition-2026-updates-6/
-URL:https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-offi
- cial-shop-edition-2026-updates-6/
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:riot:riftbounds-2026-drawings@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:LOTTERY [Riftbound] Riftbound’s 2026 Drawings
 DESCRIPTION:Everything about the K/DA Collection\, T1 Player Bundle\, 2026 
  Worlds Bundle\, and Gift of the Rift.\nSource: playriftbound.com\nhttps://
@@ -123,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3421701@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:NEWS [Pokemon] Kyogre\, Groudon\, and Giratina Delta Reign Store Pr
  omo Revealed
 DESCRIPTION:Kyogre\, Groudon\, and Giratina from the upcoming 30th Celebrat
@@ -138,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3421035@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:NEWS [Pokemon] MEGA Expansion Pack Aura Seeker Revealed
 DESCRIPTION:Can you feel the aura?\nSource: PokeGuardian\nhttps://www.pokeg
  uardian.com/3421035_mega-expansion-pack-aura-seeker-revealed
@@ -150,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-kda-couture-collection@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Kda Couture Col
  lection
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -170,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -185,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901712576535@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Beam Me Up Gift Bundle ($89.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-beam-me-up-gift-bund
@@ -202,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901673582615@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Booster Pack x1 Pre-Order ($6.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-booster-pack-x1-pre-
@@ -221,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901677121559@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Booster Pack x3 Pre-Order ($19.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-booster-pack-x3-pre-
@@ -240,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901713166359@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Bundle ($59.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-bundle
@@ -256,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901680365591@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Booster Box Pre-Order ($39
  9.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -276,7 +214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901687869463@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Booster Pack x1 Pre-Order 
  ($39.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -296,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901707530263@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Commander Deck - Federatio
  n Fleet Pre-Order ($134.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -316,7 +254,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901709168663@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Commander Deck - Klingon F
  ury Pre-Order ($134.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -336,7 +274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901708480535@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Commander Deck - Landing P
  arty Pre-Order ($134.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -356,7 +294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901709660183@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Collector Commander Deck - We Are Th
  e Borg Pre-Order ($144.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -376,7 +314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901704056855@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Commander Deck - Federation Fleet Pr
  e-Order ($62.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -396,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901705203735@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Commander Deck - Klingon Fury Pre-Or
  der ($62.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -416,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901704613911@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Commander Deck - Landing Party Pre-O
  rder ($62.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -436,7 +374,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901705793559@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Commander Deck - We Are The Borg Pre
  -Order ($69.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -456,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901724340247@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Draft Night ($104.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-draft-night
@@ -472,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901672763415@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Play Booster Box Pre-Order ($144.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-booster-box-pre-orde
@@ -490,7 +428,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901719523351@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Scene Box - Divergent Timeline ($34.
  95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
@@ -510,7 +448,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:tierzerogames.com:8901720801303@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] MTG Star Trek Scene Box - Enterprise-Q ($34.95)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: TierZero Ga
  mes\nhttps://tierzerogames.com/products/mtg-star-trek-scene-box-enterprise
@@ -528,7 +466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3429495@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:NEWS [Pokemon] Mega Rayquaza ex Premium Tournament Collection Revea
  led\, Deck Box and Sleeves Made by Dragon Shield
 DESCRIPTION:Double Dragon!\nSource: PokeGuardian\nhttps://www.pokeguardian.
@@ -542,7 +480,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3429516@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:NEWS [Pokemon] Pokémon (McDonald’s) Happy Meal 2026/2027 with 15
   Cards Officially Revealed
 DESCRIPTION:Are you Lovin' it??\nSource: PokeGuardian\nhttps://www.pokeguar
@@ -556,7 +494,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3429509@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:NEWS [Pokemon] Pokémon TCG: Valentine’s Box Revealed
 DESCRIPTION:Who is your love?\nSource: PokeGuardian\nhttps://www.pokeguardi
  an.com/3429509_pokemon-tcg-valentine-s-box-revealed
@@ -568,7 +506,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11766212854101@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Warhammer 40\,000 Command
  er Deck Display (4 Decks) ($219.50)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -588,7 +526,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11766235791701@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Legacy Champion Deck Display (4
   Decks) ($99.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -608,7 +546,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11766239330645@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Legacy Champion Sleeves ($17.90
  )
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -628,7 +566,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11766238216533@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Legacy Zippered Collector's Bin
  der ($44.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -648,7 +586,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11766237528405@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Proving Grounds (Second Edition
  ) ($52.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -668,7 +606,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -682,7 +620,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -696,7 +634,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op18.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK  -THE DOMINANCE OF GOD- [OP-18] (U
  SD $4.99 per pack)
 DESCRIPTION:delivers November 20\, 2026 *Tournament Legal after 7 days.\nSo
@@ -715,7 +653,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:dp13.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] Double Pack Set Vol.13 [DP-13] (USD $11.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/dp13.html
@@ -731,7 +669,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:gift-collection.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] Gift Collection -ONE PIECE Heroines- [GC-2026] 
  (USD $44.99)
 DESCRIPTION:delivers November 20\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -749,7 +687,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:sleeve047.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] OFFICIAL CARD SLEEVES 17 (USD $10.00)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/sleeve047.html
@@ -765,7 +703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -783,7 +721,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261101T190920Z
+DTSTAMP:20261101T225037Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
