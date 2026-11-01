@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T22:01:31.594709+00:00",
+ "generated": "2026-11-01T01:12:02.825325+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
@@ -90,21 +90,6 @@
    "premium": false,
    "tags": [],
    "buy_url": null
-  },
-  {
-   "id": "riot:product-drawing-faq",
-   "game": "Riftbound",
-   "title": "Riftbound x K/DA: Couture Collection Drawing FAQ",
-   "url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/",
-   "source": "playriftbound.com",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-10-21",
-   "price": null,
-   "note": "Everything you need to know about the Riftbound x K/DA: Couture Collection drawings.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/"
   },
   {
    "id": "riot:riftbounds-2026-drawings",
@@ -657,6 +642,126 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "shopify:www.universetcg.com:11766212854101",
+   "game": "Magic",
+   "title": "Magic: The Gathering \u2013 Warhammer 40,000 Commander Deck Display (4 Decks)",
+   "url": "https://www.universetcg.com/products/magic-the-gathering-warhammer-40000-commander-deck-display-4-decks",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-31",
+   "price": "$219.50",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "000",
+    "40K",
+    "Commander",
+    "Language:English",
+    "Magic",
+    "Magic Sealed",
+    "Magic The Gathering",
+    "MTG"
+   ],
+   "buy_url": "https://www.universetcg.com/products/magic-the-gathering-warhammer-40000-commander-deck-display-4-decks"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11766235791701",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Legacy Champion Deck Display (4 Decks)",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-legacy-champion-deck-display",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-31",
+   "price": "$99.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "Champion Deck Display",
+    "Legacy",
+    "preorder",
+    "presale",
+    "Riftbound",
+    "riftbound-legacy",
+    "Sealed Product",
+    "Starter Deck"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-legacy-champion-deck-display"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11766239330645",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Legacy Champion Sleeves",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-legacy-champion-sleeves",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-31",
+   "price": "$17.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "Accessory",
+    "Legacy",
+    "preorder",
+    "presale",
+    "Riftbound",
+    "riftbound-legacy",
+    "sleeves",
+    "status:pre-order"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-legacy-champion-sleeves"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11766238216533",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Legacy Zippered Collector's Binder",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-legacy-zippered-collectors-binder",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-31",
+   "price": "$44.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "Binder",
+    "Collector's Binder",
+    "Legacy",
+    "preorder",
+    "presale",
+    "Riftbound",
+    "riftbound-legacy",
+    "status:pre-order"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-legacy-zippered-collectors-binder"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11766237528405",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Proving Grounds (Second Edition)",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-proving-grounds-second-edition",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-10-31",
+   "price": "$52.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "Legacy",
+    "preorder",
+    "presale",
+    "Proving Grounds",
+    "Riftbound",
+    "riftbound-legacy",
+    "Sealed Product",
+    "Starter Deck"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-proving-grounds-second-edition"
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
