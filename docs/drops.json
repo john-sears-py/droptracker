@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T18:57:24.334203+00:00",
+ "generated": "2026-11-03T01:25:55.615882+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
@@ -87,36 +87,6 @@
    "day": "2026-10-20",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3421701",
-   "game": "Pokemon",
-   "title": "Kyogre, Groudon, and Giratina Delta Reign Store Promo Revealed",
-   "url": "https://www.pokeguardian.com/3421701_kyogre-groudon-and-giratina-delta-reign-store-promo-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-10-23",
-   "price": null,
-   "note": "Kyogre, Groudon, and Giratina from the upcoming 30th Celebration set, will be a store promo for\u00a0at least USA, Canada, and Australia.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3421035",
-   "game": "Pokemon",
-   "title": "MEGA Expansion Pack Aura Seeker Revealed",
-   "url": "https://www.pokeguardian.com/3421035_mega-expansion-pack-aura-seeker-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-10-23",
-   "price": null,
-   "note": "Can you feel the aura?",
    "premium": false,
    "tags": [],
    "buy_url": null
