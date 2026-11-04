@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:46:30.811874+00:00",
+ "generated": "2026-11-04T08:17:06.578412+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
@@ -180,6 +180,78 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "shopify:www.universetcg.com:11781663523157",
+   "game": "One Piece",
+   "title": "Gundam Card Game \u2013 Cosmic Crisis [EB02] Extra Booster Box - English",
+   "url": "https://www.universetcg.com/products/gundam-card-game-cosmic-crisis-eb02-extra-booster-box-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-04",
+   "price": "$110.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "autoupload-otros-2026-11-04",
+    "bandai",
+    "English",
+    "gundam-card-game",
+    "gundam-card-game-english",
+    "gundam-eb02",
+    "Language:English",
+    "sealed-product"
+   ],
+   "buy_url": "https://www.universetcg.com/products/gundam-card-game-cosmic-crisis-eb02-extra-booster-box-english"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11781663555925",
+   "game": "One Piece",
+   "title": "Gundam Card Game \u2013 Cosmic Crisis [EB02] Extra Booster Pack - English",
+   "url": "https://www.universetcg.com/products/gundam-card-game-cosmic-crisis-eb02-extra-booster-pack-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-04",
+   "price": "$4.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "autoupload-otros-2026-11-04",
+    "bandai",
+    "English",
+    "gundam-booster-pack",
+    "gundam-card-game",
+    "gundam-card-game-english",
+    "gundam-eb02",
+    "Language:English"
+   ],
+   "buy_url": "https://www.universetcg.com/products/gundam-card-game-cosmic-crisis-eb02-extra-booster-pack-english"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11781663490389",
+   "game": "One Piece",
+   "title": "Gundam Card Game \u2013 Unicorn Awakening [ST15] - English",
+   "url": "https://www.universetcg.com/products/gundam-card-game-unicorn-awakening-st15-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-04",
+   "price": "$36.90",
+   "note": "listed, not purchasable yet (or sold out)",
+   "premium": false,
+   "tags": [
+    "autoupload-otros-2026-11-04",
+    "bandai",
+    "English",
+    "gundam-card-game",
+    "gundam-card-game-english",
+    "gundam-st15",
+    "gundam-starter-deck",
+    "Language:English"
+   ],
+   "buy_url": "https://www.universetcg.com/products/gundam-card-game-unicorn-awakening-st15-english"
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
