@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T21:56:14.255587+00:00",
+ "generated": "2026-11-04T01:46:30.811874+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:01989179ca49",
@@ -162,6 +162,21 @@
    "day": "2026-10-29",
    "price": null,
    "note": "Who is your love?",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "rss:Bandai Namco US Shops:cf655e14be99",
+   "game": "One Piece",
+   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
+   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-7/",
+   "source": "Bandai Namco US Shops",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-03",
+   "price": null,
+   "note": "",
    "premium": false,
    "tags": [],
    "buy_url": null
@@ -558,7 +573,6 @@
   }
  ],
  "errors": [
-  "shopify tierzerogames.com: HTTPError: 401 Client Error: Unauthorized for url: https://tierzerogames.com/products.json?limit=250&page=1",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
