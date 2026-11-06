@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-05T22:59:57.856009+00:00",
+ "generated": "2026-11-06T03:16:22.412018+00:00",
  "drops": [
-  {
-   "id": "manual:2026-topps-chrome-formula-1:2026-10-15",
-   "game": "Topps",
-   "title": "2026 Topps Chrome Formula 1",
-   "url": "https://www.topps.com/pages/topps-chrome-formula-1",
-   "source": "manual",
-   "kind": "drop",
-   "start": null,
-   "day": "2026-10-15",
-   "price": null,
-   "note": "Top pick. Last year's hobby box ~$932. Add the exact time when Topps posts it.",
-   "premium": true,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "manual:2026-topps-chrome-samurai-japan-release:2026-10-16",
    "game": "Topps",
