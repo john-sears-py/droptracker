@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-06T22:29:46.600191+00:00",
+ "generated": "2026-11-07T02:19:15.067402+00:00",
  "drops": [
-  {
-   "id": "manual:2026-topps-chrome-samurai-japan-release:2026-10-16",
-   "game": "Topps",
-   "title": "2026 Topps Chrome Samurai Japan (release)",
-   "url": "https://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-collection",
-   "source": "manual",
-   "kind": "release",
-   "start": null,
-   "day": "2026-10-16",
-   "price": null,
-   "note": "Sakura successor. Boxes were EQL raffle ($150).",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "rss:Bandai Namco US Shops:91202ea28dc0",
    "game": "One Piece",
