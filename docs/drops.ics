@@ -7,21 +7,8 @@ X-WR-CALNAME:Card Drops
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:rss:Bandai Namco US Shops:91202ea28dc0@droptracker
-DTSTAMP:20261110T190030Z
-SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
- Edition 2026 – Updates!
-DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
- pirates-league-one-piece-card-game-official-shop-edition-2026-updates-6/
-URL:https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-offi
- cial-shop-edition-2026-updates-6/
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:riotmerch:riftbound-kda-couture-collection@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Kda Couture Col
  lection
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -41,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -56,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:cf655e14be99@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -69,7 +56,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663523157@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Cosmic Crisis [EB02] Extr
  a Booster Box ($110.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -89,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663555925@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Cosmic Crisis [EB02] Extr
  a Booster Pack ($4.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -109,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663490389@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Unicorn Awakening [ST15] 
  ($36.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -129,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:499ff733ed01@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:LOTTERY [One Piece] OP-18 Release Event Information
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -147,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:0ed6d7c07c7b@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:LOTTERY [One Piece] OP-18 Release Event – FAQ
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -165,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -179,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3439236@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:NEWS [Pokemon] Japanese Pokemon Card Game Booster Packs Get a Price
   Increase Starting in May 2027
 DESCRIPTION:Rising prices!\nSource: PokeGuardian\nhttps://www.pokeguardian.
@@ -193,7 +180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:product-drawing-faq@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:LOTTERY [Riftbound] Riftbound T1 Player Bundle and Worlds 2026 Draw
  ing
 DESCRIPTION:Get the details on the T1 2025 Worlds Champion Player Bundle an
@@ -212,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -226,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:sleeve047.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] OFFICIAL CARD SLEEVES 17 (USD $10.00)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/sleeve047.html
@@ -242,7 +229,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -260,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -278,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:eb06.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] EXTRA BOOSTER -EAST BLUE- [EB-06] (USD $4.99 pe
  r pack)
 DESCRIPTION:delivers January 29\, 2027 *Tournament Legal after 7 days.\nSou
@@ -297,7 +284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op19.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK -COME IN\, WORLD- [OP-19] (USD $4.
  99 per pack)
 DESCRIPTION:delivers March 5\, 2027\nSource: onepiece-cardgame.com\nhttps:/
@@ -315,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:per01.html@droptracker
-DTSTAMP:20261110T190030Z
+DTSTAMP:20261111T000307Z
 SUMMARY:RELEASE [One Piece] PREMIUM EXTRA BOOSTER -THE DRAWING OF YOUR DREA
  MS- [PEB-01] (USD $7.99 per pack)
 DESCRIPTION:delivers April 23\, 2027 *Tournament Legal after 7 days.\nSourc

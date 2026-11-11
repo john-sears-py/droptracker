@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-10T19:00:30.837640+00:00",
+ "generated": "2026-11-11T00:03:07.163690+00:00",
  "drops": [
-  {
-   "id": "rss:Bandai Namco US Shops:91202ea28dc0",
-   "game": "One Piece",
-   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
-   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-6/",
-   "source": "Bandai Namco US Shops",
-   "kind": "news",
-   "start": null,
-   "day": "2026-10-20",
-   "price": null,
-   "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "riotmerch:riftbound-kda-couture-collection",
    "game": "Riftbound",
