@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T18:20:08.598836+00:00",
+ "generated": "2026-11-12T23:42:13.205359+00:00",
  "drops": [
   {
    "id": "riotmerch:riftbound-kda-couture-collection",
@@ -432,6 +432,21 @@
     "Riftbound"
    ],
    "buy_url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-zippered-collectors-binder"
+  },
+  {
+   "id": "pokeguardian:3447074",
+   "game": "Pokemon",
+   "title": "Pokemon Day 2027 Collection Revealed",
+   "url": "https://www.pokeguardian.com/3447074_pokemon-day-2027-collection-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-12",
+   "price": null,
+   "note": "Say goodbye to the 30th Anniversary, and prepare for Pokemon Day 2027!",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
   },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-release:2026-11-13",
