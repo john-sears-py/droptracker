@@ -207,6 +207,7 @@
    "https://merch.riotgames.com/product/riftbound-spiritforged-booster-display/": null,
    "https://merch.riotgames.com/product/riftbound-spiritforged-champion-deck-fiora/": null,
    "https://merch.riotgames.com/product/riftbound-spiritforged-champion-deck-rumble/": null,
+   "https://merch.riotgames.com/product/riftbound-t1-2025-worlds-player-bundle/": "2026-11-13",
    "https://merch.riotgames.com/product/riftbound-t1-2025-worlds-signature-edition/": null,
    "https://merch.riotgames.com/product/riftbound-unleashed-booster-display/": null,
    "https://merch.riotgames.com/product/riftbound-unleashed-champion-deck-vex/": null,
@@ -222,6 +223,7 @@
    "https://merch.riotgames.com/product/riftbound-unleashed-vi-sleeves/": null,
    "https://merch.riotgames.com/product/riftbound-vendetta-booster-display/": null,
    "https://merch.riotgames.com/product/riftbound-vendetta-zed-shen-showdown/": null,
+   "https://merch.riotgames.com/product/riftbound-worlds-2026-edition/": "2026-11-13",
    "https://merch.riotgames.com/product/riftbound-worlds-bundle-2025/": null
   },
   "initialized": true
@@ -510,6 +512,14 @@
   "riotmerch:riftbound-radiance-evelynn-seraphine-showdown": {
    "first": "2026-09-25T17:30:47.623652+00:00",
    "sig": "drop|2026-09-25"
+  },
+  "riotmerch:riftbound-t1-2025-worlds-player-bundle": {
+   "first": "2026-11-13T18:54:24.185637+00:00",
+   "sig": "drop|2026-11-13"
+  },
+  "riotmerch:riftbound-worlds-2026-edition": {
+   "first": "2026-11-13T18:54:24.185637+00:00",
+   "sig": "drop|2026-11-13"
   },
   "rss:Bandai Namco US Shops:01989179ca49": {
    "first": "2026-10-14T22:35:50.088864+00:00",

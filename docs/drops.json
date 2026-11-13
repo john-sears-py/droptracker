@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T11:52:31.366247+00:00",
+ "generated": "2026-11-13T18:54:24.185637+00:00",
  "drops": [
   {
    "id": "riotmerch:riftbound-kda-couture-collection",
@@ -462,6 +462,36 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "riotmerch:riftbound-t1-2025-worlds-player-bundle",
+   "game": "Riftbound",
+   "title": "New on Riot Merch Store: Riftbound T1 2025 Worlds Player Bundle",
+   "url": "https://merch.riotgames.com/en-us/product/riftbound-t1-2025-worlds-player-bundle/",
+   "source": "merch.riotgames.com",
+   "kind": "drop",
+   "start": null,
+   "day": "2026-11-13",
+   "price": null,
+   "note": "New product page. Check whether it's first-come or a drawing.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-t1-2025-worlds-player-bundle/"
+  },
+  {
+   "id": "riotmerch:riftbound-worlds-2026-edition",
+   "game": "Riftbound",
+   "title": "New on Riot Merch Store: Riftbound Worlds 2026 Edition",
+   "url": "https://merch.riotgames.com/en-us/product/riftbound-worlds-2026-edition/",
+   "source": "merch.riotgames.com",
+   "kind": "drop",
+   "start": null,
+   "day": "2026-11-13",
+   "price": null,
+   "note": "New product page. Check whether it's first-come or a drawing.",
+   "premium": true,
+   "tags": [],
+   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-worlds-2026-edition/"
   },
   {
    "id": "onepiece:sleeve047.html",
