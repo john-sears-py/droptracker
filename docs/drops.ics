@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:riotmerch:riftbound-kda-couture-collection@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Kda Couture Col
  lection
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:riftbound-set-5-radiance-release:2026-10-23@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [Riftbound] Riftbound Set 5 - Radiance (release)
 DESCRIPTION:Shop pre-orders are already open at some stores - the Shopify w
  atcher catches new ones.\nSource: manual
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:cf655e14be99@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:NEWS [One Piece] Pirates League: ONE PIECE CARD GAME Official Shop 
  Edition 2026 – Updates!
 DESCRIPTION:Source: Bandai Namco US Shops\nhttps://shop.bandainamco-am.com/
@@ -56,7 +56,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663523157@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Cosmic Crisis [EB02] Extr
  a Booster Box ($110.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663555925@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Cosmic Crisis [EB02] Extr
  a Booster Pack ($4.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11781663490389@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [One Piece] Gundam Card Game – Unicorn Awakening [ST15] 
  ($36.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:499ff733ed01@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:LOTTERY [One Piece] OP-18 Release Event Information
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -134,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss:Bandai Namco US Shops:0ed6d7c07c7b@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:LOTTERY [One Piece] OP-18 Release Event – FAQ
 DESCRIPTION:Official Shop lottery via Zaiko. Nearest shops: Arlington Heigh
  ts + Gurnee\, IL. Boxes are sold with seals removed (anti-resale).\nSource
@@ -152,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
 DESCRIPTION:Source: manual
 DTSTART;VALUE=DATE:20261106
@@ -166,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3439236@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:NEWS [Pokemon] Japanese Pokemon Card Game Booster Packs Get a Price
   Increase Starting in May 2027
 DESCRIPTION:Rising prices!\nSource: PokeGuardian\nhttps://www.pokeguardian.
@@ -180,7 +180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:riot:product-drawing-faq@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:LOTTERY [Riftbound] Riftbound T1 Player Bundle and Worlds 2026 Draw
  ing
 DESCRIPTION:Get the details on the T1 2025 Worlds Champion Player Bundle an
@@ -199,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802204438869@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Booster Case (6 B
  ooster Displays) ($720.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -219,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802156728661@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Booster Display (
  $125.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -239,7 +239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802275283285@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Booster Pack ($6.
  00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -259,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802156990805@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Champion Deck (Sh
  yvana\, Vayne) ($25.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -279,7 +279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802157023573@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Champion Deck Dis
  play (4 Decks) ($99.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -299,7 +299,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802276004181@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Champion Sleeves 
  ($17.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -319,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802276233557@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Playmat ($25.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
  G\nhttps://www.universetcg.com/products/riftbound-tcg-the-reckoning-playma
@@ -338,7 +338,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802275643733@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Pre-Rift Event Ki
  t ($605.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -358,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802156859733@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Vault Bundle ($40
  .00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -378,7 +378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11802275676501@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: The Reckoning Zippered Collecto
  r's Binder ($44.90)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -398,7 +398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3447074@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:NEWS [Pokemon] Pokemon Day 2027 Collection Revealed
 DESCRIPTION:Say goodbye to the 30th Anniversary\, and prepare for Pokemon D
  ay 2027!\nSource: PokeGuardian\nhttps://www.pokeguardian.com/3447074_pokem
@@ -411,7 +411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -425,7 +425,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:sleeve047.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] OFFICIAL CARD SLEEVES 17 (USD $10.00)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/sleeve047.html
@@ -441,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -459,7 +459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -477,7 +477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:eb06.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] EXTRA BOOSTER -EAST BLUE- [EB-06] (USD $4.99 pe
  r pack)
 DESCRIPTION:delivers January 29\, 2027 *Tournament Legal after 7 days.\nSou
@@ -496,7 +496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op19.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK -COME IN\, WORLD- [OP-19] (USD $4.
  99 per pack)
 DESCRIPTION:delivers March 5\, 2027\nSource: onepiece-cardgame.com\nhttps:/
@@ -514,7 +514,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:per01.html@droptracker
-DTSTAMP:20261112T234213Z
+DTSTAMP:20261113T035846Z
 SUMMARY:RELEASE [One Piece] PREMIUM EXTRA BOOSTER -THE DRAWING OF YOUR DREA
  MS- [PEB-01] (USD $7.99 per pack)
 DESCRIPTION:delivers April 23\, 2027 *Tournament Legal after 7 days.\nSourc
