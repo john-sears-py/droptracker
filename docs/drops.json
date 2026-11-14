@@ -1,36 +1,6 @@
 {
- "generated": "2026-11-13T18:54:24.185637+00:00",
+ "generated": "2026-11-14T00:01:36.531978+00:00",
  "drops": [
-  {
-   "id": "riotmerch:riftbound-kda-couture-collection",
-   "game": "Riftbound",
-   "title": "New on Riot Merch Store: Riftbound Kda Couture Collection",
-   "url": "https://merch.riotgames.com/en-us/product/riftbound-kda-couture-collection/",
-   "source": "merch.riotgames.com",
-   "kind": "drop",
-   "start": null,
-   "day": "2026-10-23",
-   "price": null,
-   "note": "New product page. Check whether it's first-come or a drawing.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-kda-couture-collection/"
-  },
-  {
-   "id": "manual:riftbound-set-5-radiance-release:2026-10-23",
-   "game": "Riftbound",
-   "title": "Riftbound Set 5 - Radiance (release)",
-   "url": "",
-   "source": "manual",
-   "kind": "release",
-   "start": null,
-   "day": "2026-10-23",
-   "price": null,
-   "note": "Shop pre-orders are already open at some stores - the Shopify watcher catches new ones.",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
    "game": "One Piece",
