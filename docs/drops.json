@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T16:32:57.438462+00:00",
+ "generated": "2026-11-15T21:11:55.203408+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -268,7 +268,7 @@
    "kind": "preorder",
    "start": null,
    "day": "2026-11-11",
-   "price": "$99.90",
+   "price": "$100.00",
    "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
@@ -340,7 +340,7 @@
    "kind": "preorder",
    "start": null,
    "day": "2026-11-11",
-   "price": "$605.00",
+   "price": "$40.00",
    "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
@@ -462,6 +462,126 @@
    "premium": true,
    "tags": [],
    "buy_url": "https://merch.riotgames.com/en-us/product/riftbound-worlds-2026-edition/"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11813648564565",
+   "game": "Magic",
+   "title": "Magic: The Gathering \u2013 Marvel Darkhold Destiny Collector\u2019s Edition Commander Display (4 Decks)",
+   "url": "https://www.universetcg.com/products/magic-the-gathering-marvel-darkhold-destiny-collectors-edition-commander-display-4-decks-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-15",
+   "price": "$600.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "Collector's Edition",
+    "Commander",
+    "Darkhold Destiny",
+    "English",
+    "game:magic-the-gathering",
+    "Language:English",
+    "Magic",
+    "Magic Sealed"
+   ],
+   "buy_url": "https://www.universetcg.com/products/magic-the-gathering-marvel-darkhold-destiny-collectors-edition-commander-display-4-decks-english"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11813637816661",
+   "game": "Magic",
+   "title": "Magic: The Gathering \u2013 Marvel Darkhold Destiny Scene Box",
+   "url": "https://www.universetcg.com/products/magic-the-gathering-marvel-darkhold-destiny-scene-box",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-15",
+   "price": "$50.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "Darkhold Destiny",
+    "English",
+    "game:magic-the-gathering",
+    "Language:English",
+    "Magic",
+    "Magic Sealed",
+    "Magic The Gathering",
+    "Marvel Darkhold Destiny"
+   ],
+   "buy_url": "https://www.universetcg.com/products/magic-the-gathering-marvel-darkhold-destiny-scene-box"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11813510054229",
+   "game": "One Piece",
+   "title": "One Piece Card Game [PEB-01] Premium Extra Booster Case (12 Boxes)",
+   "url": "https://www.universetcg.com/products/one-piece-card-game-peb-01-premium-extra-booster-case-12-boxes-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-15",
+   "price": "$2,880.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "autoupload-product",
+    "bandai",
+    "booster-box-case",
+    "Case",
+    "English",
+    "high-demand",
+    "Language:English",
+    "One Piece"
+   ],
+   "buy_url": "https://www.universetcg.com/products/one-piece-card-game-peb-01-premium-extra-booster-case-12-boxes-english"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11813505925461",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Legacy Playmat",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-legacy-playmat",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-15",
+   "price": "$25.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "Accessories",
+    "Accessory",
+    "English",
+    "Language:English",
+    "League of Legends",
+    "Legacy",
+    "Playmat",
+    "preorder"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-legacy-playmat"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11813505958229",
+   "game": "Riftbound",
+   "title": "Riftbound TCG: Legacy Sanctum Box",
+   "url": "https://www.universetcg.com/products/riftbound-tcg-legacy-sanctum-box",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-15",
+   "price": "$34.90",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "Accessories",
+    "Accessory",
+    "Deck Box",
+    "English",
+    "Language:English",
+    "League of Legends",
+    "Legacy",
+    "preorder"
+   ],
+   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-legacy-sanctum-box"
   },
   {
    "id": "onepiece:sleeve047.html",
