@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T09:29:51.635272+00:00",
+ "generated": "2026-11-15T16:32:57.438462+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -173,17 +173,17 @@
    "start": null,
    "day": "2026-11-11",
    "price": "$720.00",
-   "note": "listed, not purchasable yet (or sold out)",
+   "note": "open",
    "premium": false,
    "tags": [
     "Booster Case",
     "Case",
     "English",
     "French",
+    "high-demand",
     "Language:English",
     "Language:French",
-    "League of Legends",
-    "preorder"
+    "League of Legends"
    ],
    "buy_url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-booster-case-6-booster-boxes-en"
   },
@@ -197,17 +197,17 @@
    "start": null,
    "day": "2026-11-11",
    "price": "$125.00",
-   "note": "listed, not purchasable yet (or sold out)",
+   "note": "open",
    "premium": false,
    "tags": [
     "Booster Box",
     "Booster Display",
     "English",
     "French",
+    "high-demand",
     "Language:English",
     "Language:French",
-    "League of Legends",
-    "preorder"
+    "League of Legends"
    ],
    "buy_url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-booster-display-en"
   },
