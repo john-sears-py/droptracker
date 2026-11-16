@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:11:55.203408+00:00",
+ "generated": "2026-11-16T01:03:47.745728+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -258,30 +258,6 @@
     "presale"
    ],
    "buy_url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-champion-deck-en"
-  },
-  {
-   "id": "shopify:www.universetcg.com:11802157023573",
-   "game": "Riftbound",
-   "title": "Riftbound TCG: The Reckoning Champion Deck Display (4 Decks)",
-   "url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-champion-deck-display",
-   "source": "Universe TCG",
-   "kind": "preorder",
-   "start": null,
-   "day": "2026-11-11",
-   "price": "$100.00",
-   "note": "listed, not purchasable yet (or sold out)",
-   "premium": false,
-   "tags": [
-    "Champion Deck Display",
-    "English",
-    "French",
-    "Language:English",
-    "Language:French",
-    "League of Legends",
-    "preorder",
-    "presale"
-   ],
-   "buy_url": "https://www.universetcg.com/products/riftbound-tcg-the-reckoning-champion-deck-display"
   },
   {
    "id": "shopify:www.universetcg.com:11802276004181",
