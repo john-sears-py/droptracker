@@ -167,6 +167,12 @@
  },
  "reminded": {},
  "riot_articles": {
+  "https://playriftbound.com/en-us/news/announcements/celebrate-convergence-fest-at-american-game-stores": {
+   "closes": null,
+   "drawing": null,
+   "opens": null,
+   "register": null
+  },
   "https://playriftbound.com/en-us/news/announcements/product-drawing-faq/": {
    "closes": null,
    "drawing": null,
@@ -481,6 +487,14 @@
    "first": "2026-11-12T23:42:13.205359+00:00",
    "sig": "news|2026-11-12"
   },
+  "pokeguardian:3450977": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "news|2026-11-16"
+  },
+  "riot:celebrate-convergence-fest-at-american-game-stores": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "news|2026-11-16"
+  },
   "riot:product-drawing-faq": {
    "first": "2026-09-25T17:30:47.623652+00:00",
    "sig": "lottery|2026-11-06"
@@ -756,6 +770,78 @@
   "shopify:tierzerogames.com:8999977418775": {
    "first": "2026-10-21T14:44:55.137489+00:00",
    "sig": "preorder|2026-10-21"
+  },
+  "shopify:tierzerogames.com:9092017618967": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017684503": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017717271": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017782807": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017815575": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017881111": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017913879": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092017946647": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018012183": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018044951": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018110487": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018143255": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018208791": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018241559": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018307095": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092018339863": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092070244375": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:tierzerogames.com:9092072439831": {
+   "first": "2026-11-16T18:03:59.417556+00:00",
+   "sig": "preorder|2026-11-16"
   },
   "shopify:www.universetcg.com:11697698144597": {
    "first": "2026-10-13T17:06:18.120979+00:00",
