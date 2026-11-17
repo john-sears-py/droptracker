@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T09:52:56.614248+00:00",
+ "generated": "2026-11-17T18:51:43.653050+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -539,7 +539,7 @@
    "start": null,
    "day": "2026-11-16",
    "price": "$74.95",
-   "note": "open",
+   "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
     "Magic",
@@ -611,7 +611,7 @@
    "start": null,
    "day": "2026-11-16",
    "price": "$74.95",
-   "note": "open",
+   "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
     "Magic",
@@ -635,7 +635,7 @@
    "start": null,
    "day": "2026-11-16",
    "price": "$279.95",
-   "note": "open",
+   "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
     "Magic",
