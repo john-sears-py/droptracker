@@ -1,21 +1,21 @@
 {
  "onepiece_detail": {
   "https://en.onepiece-cardgame.com/products/3rd_anniversary_set_cn.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/card_collection_asl.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/collection-6assort-vol2.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
@@ -50,7 +50,7 @@
    "release_day": "2026-10-30"
   },
   "https://en.onepiece-cardgame.com/products/eb06.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "January 29, 2027 *Tournament Legal after 7 days.",
    "premium": false,
    "preorder_day": null,
@@ -92,21 +92,21 @@
    "release_day": "2026-11-20"
   },
   "https://en.onepiece-cardgame.com/products/op19.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "March 5, 2027",
    "premium": false,
    "preorder_day": null,
    "release_day": "2027-03-05"
   },
   "https://en.onepiece-cardgame.com/products/per01.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "April 23, 2027 *Tournament Legal after 7 days.",
    "premium": false,
    "preorder_day": null,
    "release_day": "2027-04-23"
   },
   "https://en.onepiece-cardgame.com/products/playmat_liffy-bonney.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
@@ -120,35 +120,35 @@
    "release_day": "2026-09-18"
   },
   "https://en.onepiece-cardgame.com/products/sleeve045.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/sleeve046.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": null,
    "premium": false,
    "preorder_day": null,
    "release_day": null
   },
   "https://en.onepiece-cardgame.com/products/sleeve047.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "December 18, 2026",
    "premium": false,
    "preorder_day": null,
    "release_day": "2026-12-18"
   },
   "https://en.onepiece-cardgame.com/products/st37.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "December 18, 2026",
    "premium": false,
    "preorder_day": null,
    "release_day": "2026-12-18"
   },
   "https://en.onepiece-cardgame.com/products/st38.html": {
-   "checked": "2026-11-16T07:59:56.769769+00:00",
+   "checked": "2026-11-17T01:52:46.258768+00:00",
    "delivery": "December 18, 2026",
    "premium": false,
    "preorder_day": null,
@@ -946,6 +946,42 @@
   "shopify:www.universetcg.com:11813648564565": {
    "first": "2026-11-15T21:11:55.203408+00:00",
    "sig": "preorder|2026-11-15"
+  },
+  "shopify:www.universetcg.com:11815734214997": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815734706517": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815735624021": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815736312149": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815736672597": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815737852245": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815738147157": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815749386581": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
+  },
+  "shopify:www.universetcg.com:11815764787541": {
+   "first": "2026-11-17T01:52:46.258768+00:00",
+   "sig": "preorder|2026-11-16"
   }
  }
 }
