@@ -98,6 +98,13 @@
    "preorder_day": null,
    "release_day": "2027-03-05"
   },
+  "https://en.onepiece-cardgame.com/products/peb01.html": {
+   "checked": "2026-11-19T07:51:33.738890+00:00",
+   "delivery": "April 23, 2027 *Tournament Legal after 7 days.",
+   "premium": false,
+   "preorder_day": null,
+   "release_day": "2027-04-23"
+  },
   "https://en.onepiece-cardgame.com/products/per01.html": {
    "checked": "2026-11-19T00:24:05.898156+00:00",
    "delivery": "April 23, 2027 *Tournament Legal after 7 days.",
@@ -326,6 +333,10 @@
   "onepiece:op19.html": {
    "first": "2026-11-06T17:47:28.538854+00:00",
    "sig": "release|2027-03-05"
+  },
+  "onepiece:peb01.html": {
+   "first": "2026-11-19T07:51:33.738890+00:00",
+   "sig": "release|2027-04-23"
   },
   "onepiece:per01.html": {
    "first": "2026-11-06T17:47:28.538854+00:00",
