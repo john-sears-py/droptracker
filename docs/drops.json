@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T07:51:33.738890+00:00",
+ "generated": "2026-11-19T16:54:55.888720+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -483,6 +483,21 @@
    "day": "2026-11-16",
    "price": null,
    "note": "Learn how players across the US can receive an exclusive Ionic Spark battlefield promo!",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3456480",
+   "game": "Pokemon",
+   "title": "Pok\u00e9mon TCG: Mega Evolution \u2014 Flowing Fists Revealed",
+   "url": "https://www.pokeguardian.com/3456480_pokemon-tcg-mega-evolution-flowing-fists-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-19",
+   "price": null,
+   "note": "Are you ready for a fist??",
    "premium": false,
    "tags": [],
    "buy_url": null
