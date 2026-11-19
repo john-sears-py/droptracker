@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T16:54:55.888720+00:00",
+ "generated": "2026-11-19T23:20:00.654608+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -498,6 +498,21 @@
    "day": "2026-11-19",
    "price": null,
    "note": "Are you ready for a fist??",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3457013",
+   "game": "Pokemon",
+   "title": "Ultra PRO Pokemon Mega Evolution - Flowing Fists Card Binders Revealed",
+   "url": "https://www.pokeguardian.com/3457013_ultra-pro-pokemon-mega-evolution-flowing-fists-card-binders-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-19",
+   "price": null,
+   "note": "Mega Portfolios for Mega Pokemon",
    "premium": false,
    "tags": [],
    "buy_url": null
