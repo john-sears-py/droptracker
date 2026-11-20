@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:01:56.539522+00:00",
+ "generated": "2026-11-20T12:55:25.777146+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -518,6 +518,36 @@
    "buy_url": null
   },
   {
+   "id": "pokeguardian:3457722",
+   "game": "Pokemon",
+   "title": "Pokemon Card Game Card Illustration Figure Collection:  30th CELEBRATION Revealed",
+   "url": "https://www.pokeguardian.com/3457722_pokemon-card-game-card-illustration-figure-collection-30th-celebration-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-20",
+   "price": null,
+   "note": "Will you collect all 13?",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
+   "id": "pokeguardian:3457698",
+   "game": "Pokemon",
+   "title": "Pokemon Card Game November 2026 Merchandise Revealed",
+   "url": "https://www.pokeguardian.com/3457698_pokemon-card-game-november-2026-merchandise-revealed",
+   "source": "PokeGuardian",
+   "kind": "news",
+   "start": null,
+   "day": "2026-11-20",
+   "price": null,
+   "note": "The Pokemon Card Game Merchandise line-up for November 2026 has been revealed.",
+   "premium": false,
+   "tags": [],
+   "buy_url": null
+  },
+  {
    "id": "onepiece:sleeve047.html",
    "game": "One Piece",
    "title": "OFFICIAL CARD SLEEVES 17",
@@ -879,6 +909,7 @@
   }
  ],
  "errors": [
+  "shopify tierzerogames.com: HTTPError: 401 Client Error: Unauthorized for url: https://tierzerogames.com/products.json?limit=250&page=1",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
