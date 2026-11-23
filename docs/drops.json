@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:15:21.587037+00:00",
+ "generated": "2026-11-23T02:47:08.752407+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -57,21 +57,6 @@
    "day": "2026-11-06",
    "price": null,
    "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "pokeguardian:3447074",
-   "game": "Pokemon",
-   "title": "Pokemon Day 2027 Collection Revealed",
-   "url": "https://www.pokeguardian.com/3447074_pokemon-day-2027-collection-revealed",
-   "source": "PokeGuardian",
-   "kind": "news",
-   "start": null,
-   "day": "2026-11-12",
-   "price": null,
-   "note": "Say goodbye to the 30th Anniversary, and prepare for Pokemon Day 2027!",
    "premium": false,
    "tags": [],
    "buy_url": null
