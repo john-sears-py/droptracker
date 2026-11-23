@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T11:28:12.658663+00:00",
+ "generated": "2026-11-23T22:52:39.759448+00:00",
  "drops": [
   {
    "id": "rss:Bandai Namco US Shops:cf655e14be99",
@@ -894,7 +894,6 @@
   }
  ],
  "errors": [
-  "shopify tierzerogames.com: HTTPError: 401 Client Error: Unauthorized for url: https://tierzerogames.com/products.json?limit=250&page=1",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
