@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-24T18:13:06.123895+00:00",
+ "generated": "2026-11-25T02:30:36.538387+00:00",
  "drops": [
-  {
-   "id": "rss:Bandai Namco US Shops:cf655e14be99",
-   "game": "One Piece",
-   "title": "Pirates League: ONE PIECE CARD GAME Official Shop Edition 2026 \u2013 Updates!",
-   "url": "https://shop.bandainamco-am.com/pirates-league-one-piece-card-game-official-shop-edition-2026-updates-7/",
-   "source": "Bandai Namco US Shops",
-   "kind": "news",
-   "start": null,
-   "day": "2026-11-03",
-   "price": null,
-   "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "rss:Bandai Namco US Shops:499ff733ed01",
    "game": "One Piece",
@@ -531,6 +516,54 @@
    "premium": false,
    "tags": [],
    "buy_url": null
+  },
+  {
+   "id": "shopify:www.universetcg.com:11843641737557",
+   "game": "Magic",
+   "title": "Magic: The Gathering \u2013 Secret Lair x Dune: The Balance of Power (Non-Foil)",
+   "url": "https://www.universetcg.com/products/magic-the-gathering-secret-lair-x-dune-the-balance-of-power-non-foil-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-24",
+   "price": "$70.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "cierre-auto",
+    "Dune",
+    "Language:English",
+    "Magic",
+    "Magic: The Gathering",
+    "preorder",
+    "Secret Lair",
+    "status:pre-order"
+   ],
+   "buy_url": "https://www.universetcg.com/products/magic-the-gathering-secret-lair-x-dune-the-balance-of-power-non-foil-english"
+  },
+  {
+   "id": "shopify:www.universetcg.com:11843641934165",
+   "game": "Magic",
+   "title": "Magic: The Gathering \u2013 Secret Lair x Dune: The Deserts of Arrakis (Non-Foil)",
+   "url": "https://www.universetcg.com/products/magic-the-gathering-secret-lair-x-dune-the-deserts-of-arrakis-non-foil-english",
+   "source": "Universe TCG",
+   "kind": "preorder",
+   "start": null,
+   "day": "2026-11-24",
+   "price": "$70.00",
+   "note": "open",
+   "premium": false,
+   "tags": [
+    "cierre-auto",
+    "Dune",
+    "Language:English",
+    "Magic",
+    "Magic: The Gathering",
+    "preorder",
+    "Secret Lair",
+    "status:pre-order"
+   ],
+   "buy_url": "https://www.universetcg.com/products/magic-the-gathering-secret-lair-x-dune-the-deserts-of-arrakis-non-foil-english"
   },
   {
    "id": "onepiece:sleeve047.html",
