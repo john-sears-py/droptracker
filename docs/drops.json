@@ -1,36 +1,6 @@
 {
- "generated": "2026-11-25T20:37:26.453965+00:00",
+ "generated": "2026-11-26T03:03:16.965142+00:00",
  "drops": [
-  {
-   "id": "rss:Bandai Namco US Shops:499ff733ed01",
-   "game": "One Piece",
-   "title": "OP-18 Release Event Information",
-   "url": "https://shop.bandainamco-am.com/op-18-release-event-information/",
-   "source": "Bandai Namco US Shops",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-11-04",
-   "price": null,
-   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
-   "premium": true,
-   "tags": [],
-   "buy_url": null
-  },
-  {
-   "id": "rss:Bandai Namco US Shops:0ed6d7c07c7b",
-   "game": "One Piece",
-   "title": "OP-18 Release Event \u2013 FAQ",
-   "url": "https://shop.bandainamco-am.com/op-18-release-event-faq/",
-   "source": "Bandai Namco US Shops",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-11-04",
-   "price": null,
-   "note": "Official Shop lottery via Zaiko. Nearest shops: Arlington Heights + Gurnee, IL. Boxes are sold with seals removed (anti-resale).",
-   "premium": true,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
    "game": "Magic",
@@ -527,15 +497,15 @@
    "start": null,
    "day": "2026-11-24",
    "price": "$70.00",
-   "note": "open",
+   "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
-    "cierre-auto",
     "Dune",
     "Language:English",
     "Magic",
     "Magic: The Gathering",
     "preorder",
+    "preventa-cerrada",
     "Secret Lair",
     "status:pre-order"
    ],
@@ -551,15 +521,15 @@
    "start": null,
    "day": "2026-11-24",
    "price": "$70.00",
-   "note": "open",
+   "note": "listed, not purchasable yet (or sold out)",
    "premium": false,
    "tags": [
-    "cierre-auto",
     "Dune",
     "Language:English",
     "Magic",
     "Magic: The Gathering",
     "preorder",
+    "preventa-cerrada",
     "Secret Lair",
     "status:pre-order"
    ],
