@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T03:52:10.496452+00:00",
+ "generated": "2026-11-27T13:17:30.147522+00:00",
  "drops": [
   {
    "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
@@ -867,7 +867,6 @@
   }
  ],
  "errors": [
-  "rss Bandai Namco US Shops: ConnectTimeout: HTTPSConnectionPool(host='shop.bandainamco-am.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='shop.bandainamco-am.com', port=443) at 0x710cd0849d10>, 'Connection to shop.bandainamco-am.com timed o",
   "rss PokeBeach: HTTPError: 500 Server Error: Internal Server Error for url: https://www.pokebeach.com/feed"
  ],
  "timezone": "America/Chicago"
