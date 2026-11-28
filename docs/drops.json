@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-27T22:02:21.847058+00:00",
+ "generated": "2026-11-28T03:54:33.326528+00:00",
  "drops": [
-  {
-   "id": "manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06",
-   "game": "Magic",
-   "title": "Magic x Star Wars (Universes Beyond) prerelease",
-   "url": "",
-   "source": "manual",
-   "kind": "release",
-   "start": null,
-   "day": "2026-11-06",
-   "price": null,
-   "note": "",
-   "premium": false,
-   "tags": [],
-   "buy_url": null
-  },
   {
    "id": "manual:magic-x-star-wars-universes-beyond-release:2026-11-13",
    "game": "Magic",
@@ -504,21 +489,6 @@
     "status:pre-order"
    ],
    "buy_url": "https://www.universetcg.com/products/magic-the-gathering-secret-lair-x-dune-the-deserts-of-arrakis-non-foil-english"
-  },
-  {
-   "id": "pbandai:op18",
-   "game": "One Piece",
-   "title": "[Premium Bandai] Chance to Buy: ONE PIECE CARD GAME -THE DOMINANCE OF GOD- [OP-18] Booster Box",
-   "url": "https://p-bandai.com/us/hotdeals/op18",
-   "source": "p-bandai.com (US)",
-   "kind": "lottery",
-   "start": null,
-   "day": "2026-11-27",
-   "price": null,
-   "note": "Premium Bandai lottery: enter anytime in the window (odds are the same), winners get an emailed purchase link. Needs a p-bandai.com account with saved address + payment. Entry window is on the page. PB US drops have tended to land ~7-9:30 pm Chicago.",
-   "premium": true,
-   "tags": [],
-   "buy_url": "https://p-bandai.com/us/hotdeals/op18"
   },
   {
    "id": "onepiece:sleeve047.html",

@@ -7,22 +7,8 @@ X-WR-CALNAME:Card Drops
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:manual:magic-x-star-wars-universes-beyond-prerelease:2026-11-06@droptracker
-DTSTAMP:20261127T220221Z
-SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
-DESCRIPTION:Source: manual
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:RELEASE [Magic] Magic x Star Wars (Universes Beyond) prerelease
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:manual:magic-x-star-wars-universes-beyond-release:2026-11-13@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [Magic] Magic x Star Wars (Universes Beyond) release
 DESCRIPTION:Crossover - the outside-buyer pattern.\nSource: manual
 DTSTART;VALUE=DATE:20261113
@@ -36,7 +22,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-t1-2025-worlds-player-bundle@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound T1 2025 Worlds 
  Player Bundle
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -56,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:riotmerch:riftbound-worlds-2026-edition@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:DROP [Riftbound] New on Riot Merch Store: Riftbound Worlds 2026 Edi
  tion
 DESCRIPTION:New product page. Check whether it's first-come or a drawing.\n
@@ -76,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11813648564565@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Marvel Darkhold Destiny C
  ollector’s Edition Commander Display (4 Decks) ($600.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -96,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11813637816661@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Marvel Darkhold Destiny S
  cene Box ($50.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -115,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11813510054229@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [One Piece] One Piece Card Game [PEB-01] Premium Extra Boo
  ster Case (12 Boxes) ($2\,880.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -134,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11813505925461@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Legacy Playmat ($25.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
  s/riftbound-tcg-legacy-playmat
@@ -150,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11813505958229@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Riftbound] Riftbound TCG: Legacy Sanctum Box ($34.90)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
  s/riftbound-tcg-legacy-sanctum-box
@@ -166,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815734214997@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Booster Display (30 Packs) ($150.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -185,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815735624021@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Bundle ($55.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -204,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815734706517@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Collector Booster Display (12 Packs) ($420.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -224,7 +210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815764787541@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Collector Booster Pack ($35.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -243,7 +229,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815738147157@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Commander Deck Display (4 Decks) ($50.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -263,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815736312149@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Draft Night ($100.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -282,7 +268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815736672597@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Premium Collector Commander Display (4 Decks) ($340.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -302,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815749386581@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Prerelease Pack ($40.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -321,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11815737852245@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Nauctis: The Sunken Realm
   Secret Lair Gift and Special Bundle ($150.00)
 DESCRIPTION:open\nSource: Universe TCG\nhttps://www.universetcg.com/product
@@ -341,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3456480@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:NEWS [Pokemon] Pokémon TCG: Mega Evolution — Flowing Fists Revea
  led
 DESCRIPTION:Are you ready for a fist??\nSource: PokeGuardian\nhttps://www.p
@@ -354,7 +340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3457013@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:NEWS [Pokemon] Ultra PRO Pokemon Mega Evolution - Flowing Fists Car
  d Binders Revealed
 DESCRIPTION:Mega Portfolios for Mega Pokemon\nSource: PokeGuardian\nhttps:/
@@ -368,7 +354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3457722@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:NEWS [Pokemon] Pokemon Card Game Card Illustration Figure Collectio
  n:  30th CELEBRATION Revealed
 DESCRIPTION:Will you collect all 13?\nSource: PokeGuardian\nhttps://www.pok
@@ -382,7 +368,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokeguardian:3457698@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:NEWS [Pokemon] Pokemon Card Game November 2026 Merchandise Revealed
 DESCRIPTION:The Pokemon Card Game Merchandise line-up for November 2026 has
   been revealed.\nSource: PokeGuardian\nhttps://www.pokeguardian.com/345769
@@ -395,7 +381,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11843641737557@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Secret Lair x Dune: The B
  alance of Power (Non-Foil) ($70.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -415,7 +401,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shopify:www.universetcg.com:11843641934165@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:PREORDER [Magic] Magic: The Gathering – Secret Lair x Dune: The D
  eserts of Arrakis (Non-Foil) ($70.00)
 DESCRIPTION:listed\, not purchasable yet (or sold out)\nSource: Universe TC
@@ -434,29 +420,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pbandai:op18@droptracker
-DTSTAMP:20261127T220221Z
-SUMMARY:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE CARD 
- GAME -THE DOMINANCE OF GOD- [OP-18] Booster Box
-DESCRIPTION:Premium Bandai lottery: enter anytime in the window (odds are t
- he same)\, winners get an emailed purchase link. Needs a p-bandai.com acco
- unt with saved address + payment. Entry window is on the page. PB US drops
-  have tended to land ~7-9:30 pm Chicago.\nSource: p-bandai.com (US)\nhttps
- ://p-bandai.com/us/hotdeals/op18
-URL:https://p-bandai.com/us/hotdeals/op18
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:LOTTERY [One Piece] [Premium Bandai] Chance to Buy: ONE PIECE C
- ARD GAME -THE DOMINANCE OF GOD- [OP-18] Booster Box
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:onepiece:sleeve047.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] OFFICIAL CARD SLEEVES 17 (USD $10.00)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
  ps://en.onepiece-cardgame.com/products/sleeve047.html
@@ -472,7 +437,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st38.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -Baroque Works-  [ST-38] (USD $16.
  99)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -490,7 +455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:st37.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] STARTER DECK -The Desert Princess and the Pirat
  es- [ST-37] (MSRP)
 DESCRIPTION:delivers December 18\, 2026\nSource: onepiece-cardgame.com\nhtt
@@ -508,7 +473,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:eb06.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] EXTRA BOOSTER -EAST BLUE- [EB-06] (USD $4.99 pe
  r pack)
 DESCRIPTION:delivers January 29\, 2027 *Tournament Legal after 7 days.\nSou
@@ -527,7 +492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:op19.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] BOOSTER PACK -COME IN\, WORLD- [OP-19] (USD $4.
  99 per pack)
 DESCRIPTION:delivers March 5\, 2027\nSource: onepiece-cardgame.com\nhttps:/
@@ -545,7 +510,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:onepiece:peb01.html@droptracker
-DTSTAMP:20261127T220221Z
+DTSTAMP:20261128T035433Z
 SUMMARY:RELEASE [One Piece] PREMIUM EXTRA BOOSTER -THE DRAWING OF YOUR DREA
  MS- [PEB-01] (USD $7.99 per pack)
 DESCRIPTION:delivers April 23\, 2027 *Tournament Legal after 7 days.\nSourc
